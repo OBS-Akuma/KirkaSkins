@@ -1,2 +1,2 @@
 # meow
-credits: Glitchy, xip, Akuma/Smudge/Smudgy
+credits: Glitchy, xip, Akuma/Smudge/Smudgy, Q!/Queen1/Queen
