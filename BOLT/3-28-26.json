@@ -1,0 +1,7013 @@
+[
+  {
+    "Skin Name": "1337",
+    "Skin Rarity": "Mythical",
+    "Base Value": "300,000",
+    "Obtainable By": "All chests",
+    "Type": "Shark",
+    "Known Units": "1/697"
+  },
+  {
+    "Skin Name": "2022",
+    "Skin Rarity": "Legendary",
+    "Base Value": "20,000",
+    "Obtainable By": "All chests",
+    "Type": "VITA",
+    "Known Units": "1/12,008"
+  },
+  {
+    "Skin Name": "2024",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "All chests",
+    "Type": "Bayonet",
+    "Known Units": "1/398"
+  },
+  {
+    "Skin Name": "2025",
+    "Skin Rarity": "Mythical",
+    "Base Value": "450,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/238"
+  },
+  {
+    "Skin Name": "2025 Bayonet",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/102"
+  },
+  {
+    "Skin Name": "2025 Revolver",
+    "Skin Rarity": "Mythical",
+    "Base Value": "750,000",
+    "Obtainable By": "All Chests/ Packs",
+    "Type": "Revolver",
+    "Known Units": "1/138"
+  },
+  {
+    "Skin Name": "2025 Shark",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,200,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/97"
+  },
+  {
+    "Skin Name": "2025 VITA",
+    "Skin Rarity": "Mythical",
+    "Base Value": "700,000",
+    "Obtainable By": "150x 💎",
+    "Type": "VITA",
+    "Known Units": "1/141"
+  },
+  {
+    "Skin Name": "22",
+    "Skin Rarity": "Epic",
+    "Base Value": "750,000,000",
+    "Obtainable By": "Glitched in chests",
+    "Type": "Bayonet",
+    "Known Units": "1/11"
+  },
+  {
+    "Skin Name": "Abstraction",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "38th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/701"
+  },
+  {
+    "Skin Name": "Abyss",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/239"
+  },
+  {
+    "Skin Name": "Ace",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests",
+    "Type": "Revolver",
+    "Known Units": "1/52,274"
+  },
+  {
+    "Skin Name": "Admiral",
+    "Skin Rarity": "Rare",
+    "Base Value": "1,000,000",
+    "Obtainable By": "5th & 0th Clan War",
+    "Type": "AR-9",
+    "Known Units": "1/1,477"
+  },
+  {
+    "Skin Name": "Adora",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "50,000,000",
+    "Obtainable By": "Girls Band",
+    "Type": "Character",
+    "Known Units": "1/5"
+  },
+  {
+    "Skin Name": "Alex",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/34,128"
+  },
+  {
+    "Skin Name": "Alice",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000,000",
+    "Obtainable By": "Watch 15 hours Venatrix",
+    "Type": "Character",
+    "Known Units": "1/9"
+  },
+  {
+    "Skin Name": "Alien",
+    "Skin Rarity": "Legendary",
+    "Base Value": "300,000",
+    "Obtainable By": "4th Clan War",
+    "Type": "Weatie",
+    "Known Units": "1/1,387"
+  },
+  {
+    "Skin Name": "Alien Hazard",
+    "Skin Rarity": "Legendary",
+    "Base Value": "200,000",
+    "Obtainable By": "11th Clan War",
+    "Type": "Revolver",
+    "Known Units": "1/2,235"
+  },
+  {
+    "Skin Name": "Alighted",
+    "Skin Rarity": "Mythical",
+    "Base Value": "60,000",
+    "Obtainable By": "37th Clan War",
+    "Type": "Bayonet",
+    "Known Units": "1/7,823"
+  },
+  {
+    "Skin Name": "All Spark",
+    "Skin Rarity": "Mythical",
+    "Base Value": "250,000",
+    "Obtainable By": "38th Clan War",
+    "Type": "Revolver",
+    "Known Units": "1/1,564"
+  },
+  {
+    "Skin Name": "Alpha",
+    "Skin Rarity": "Mythical",
+    "Base Value": "550,000",
+    "Obtainable By": "1K Bayonet Kills",
+    "Type": "Bayonet",
+    "Known Units": "1/395"
+  },
+  {
+    "Skin Name": "Alucard",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Tomahawk",
+    "Known Units": "1/664"
+  },
+  {
+    "Skin Name": "Ambrosia",
+    "Skin Rarity": "Mythical",
+    "Base Value": "4,500,000",
+    "Obtainable By": "5k Shark Kills",
+    "Type": "Shark",
+    "Known Units": "1/96"
+  },
+  {
+    "Skin Name": "Anarchy",
+    "Skin Rarity": "Mythical",
+    "Base Value": "11,000,000",
+    "Obtainable By": "7.5k Mid-Air Kills",
+    "Type": "VITA",
+    "Known Units": "1/86"
+  },
+  {
+    "Skin Name": "Andromeda",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,800,000",
+    "Obtainable By": "11th Clan War",
+    "Type": "MAC-10",
+    "Known Units": "1/266"
+  },
+  {
+    "Skin Name": "Angel",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,500,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/342"
+  },
+  {
+    "Skin Name": "Antique",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "22,000,000",
+    "Obtainable By": "All Chests",
+    "Type": "Bayonet",
+    "Known Units": "1/16"
+  },
+  {
+    "Skin Name": "Apollo",
+    "Skin Rarity": "Mythical",
+    "Base Value": "360,000,000",
+    "Obtainable By": "20k Scar Kills",
+    "Type": "SCAR",
+    "Known Units": "1/48"
+  },
+  {
+    "Skin Name": "AR-9",
+    "Skin Rarity": "Default",
+    "Base Value": "0",
+    "Obtainable By": "Default Item",
+    "Type": "AR-9",
+    "Known Units": "1/164,605"
+  },
+  {
+    "Skin Name": "Arc",
+    "Skin Rarity": "Legendary",
+    "Base Value": "375,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/1,719"
+  },
+  {
+    "Skin Name": "Arcade",
+    "Skin Rarity": "Mythical",
+    "Base Value": "30,000,000",
+    "Obtainable By": "Watch 15 hours Gecko",
+    "Type": "VITA",
+    "Known Units": "1/111"
+  },
+  {
+    "Skin Name": "Archverse",
+    "Skin Rarity": "Mythical",
+    "Base Value": "10,000,000",
+    "Obtainable By": "100 SAD Wins",
+    "Type": "Bayonet",
+    "Known Units": "1/216"
+  },
+  {
+    "Skin Name": "Aria",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/32,013"
+  },
+  {
+    "Skin Name": "Aries",
+    "Skin Rarity": "Mythical",
+    "Base Value": "60,000,000",
+    "Obtainable By": "2.5k Shark Kills",
+    "Type": "Shark",
+    "Known Units": "1/207"
+  },
+  {
+    "Skin Name": "Artic Illusion",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/101,706"
+  },
+  {
+    "Skin Name": "Artificial",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/421"
+  },
+  {
+    "Skin Name": "Ashley",
+    "Skin Rarity": "Mythical",
+    "Base Value": "20,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/197"
+  },
+  {
+    "Skin Name": "Astra",
+    "Skin Rarity": "Mythical",
+    "Base Value": "150,000",
+    "Obtainable By": "21st-29th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/4,350"
+  },
+  {
+    "Skin Name": "Astral",
+    "Skin Rarity": "Mythical",
+    "Base Value": "6,500,000",
+    "Obtainable By": "10k AR-9 Kills",
+    "Type": "AR-9",
+    "Known Units": "1/105"
+  },
+  {
+    "Skin Name": "Astronova",
+    "Skin Rarity": "Mythical",
+    "Base Value": "200,000",
+    "Obtainable By": "38th Clan War",
+    "Type": "LAR",
+    "Known Units": "1/4,350"
+  },
+  {
+    "Skin Name": "Atomic",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/101,629"
+  },
+  {
+    "Skin Name": "Attention",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "M60",
+    "Known Units": "1/57,744"
+  },
+  {
+    "Skin Name": "Aubree",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests",
+    "Type": "Character",
+    "Known Units": "1/31,090"
+  },
+  {
+    "Skin Name": "Aurum",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests",
+    "Type": "Character",
+    "Known Units": "1/12,451"
+  },
+  {
+    "Skin Name": "Awesome",
+    "Skin Rarity": "Legendary",
+    "Base Value": "25,000",
+    "Obtainable By": "All chests",
+    "Type": "SCAR",
+    "Known Units": "1/7,006"
+  },
+  {
+    "Skin Name": "Aztek",
+    "Skin Rarity": "Legendary",
+    "Base Value": "5,000",
+    "Obtainable By": "All chests",
+    "Type": "Weatie",
+    "Known Units": "1/10,828"
+  },
+  {
+    "Skin Name": "Azure",
+    "Skin Rarity": "Legendary",
+    "Base Value": "250,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Shark",
+    "Known Units": "1/590"
+  },
+  {
+    "Skin Name": "Back To School",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/118"
+  },
+  {
+    "Skin Name": "Bad Bunny",
+    "Skin Rarity": "Legendary",
+    "Base Value": "250,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/355"
+  },
+  {
+    "Skin Name": "Baldwin",
+    "Skin Rarity": "Mythical",
+    "Base Value": "550,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/227"
+  },
+  {
+    "Skin Name": "Basket",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,500,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/115"
+  },
+  {
+    "Skin Name": "Basketcase",
+    "Skin Rarity": "Mythical",
+    "Base Value": "4,500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/150"
+  },
+  {
+    "Skin Name": "Bay",
+    "Skin Rarity": "Legendary",
+    "Base Value": "3,500,000",
+    "Obtainable By": "3rd Clan War",
+    "Type": "Shark",
+    "Known Units": "1/448"
+  },
+  {
+    "Skin Name": "Bayonet",
+    "Skin Rarity": "Default",
+    "Base Value": "0",
+    "Obtainable By": "Default Item",
+    "Type": "Bayonet",
+    "Known Units": "1/270,133"
+  },
+  {
+    "Skin Name": "Beach",
+    "Skin Rarity": "Legendary",
+    "Base Value": "6,250,000",
+    "Obtainable By": "3rd Clan War",
+    "Type": "Bayonet",
+    "Known Units": "1/196"
+  },
+  {
+    "Skin Name": "Beast",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000,000",
+    "Obtainable By": "3000 KLO & 150x 💎",
+    "Type": "Character",
+    "Known Units": "1/8"
+  },
+  {
+    "Skin Name": "Bee",
+    "Skin Rarity": "Legendary",
+    "Base Value": "5,000",
+    "Obtainable By": "All chests",
+    "Type": "M60",
+    "Known Units": "1/11,015"
+  },
+  {
+    "Skin Name": "Beet",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "MAC-10",
+    "Known Units": "1/59,244"
+  },
+  {
+    "Skin Name": "Beyona",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/24,912"
+  },
+  {
+    "Skin Name": "Billion",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/163"
+  },
+  {
+    "Skin Name": "Bismuth",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/11,209"
+  },
+  {
+    "Skin Name": "Black Flame",
+    "Skin Rarity": "Mythical",
+    "Base Value": "13,000,000",
+    "Obtainable By": "5k Revolver Kills",
+    "Type": "Revolver",
+    "Known Units": "1/70"
+  },
+  {
+    "Skin Name": "Black Metal",
+    "Skin Rarity": "Legendary",
+    "Base Value": "15,000",
+    "Obtainable By": "All chests",
+    "Type": "VITA",
+    "Known Units": "1/11,894"
+  },
+  {
+    "Skin Name": "Black Metal 2.0",
+    "Skin Rarity": "Legendary",
+    "Base Value": "600,000",
+    "Obtainable By": "6th Clan War",
+    "Type": "LAR",
+    "Known Units": "1/1,922"
+  },
+  {
+    "Skin Name": "Blackhole",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "25,000,000",
+    "Obtainable By": "All Chests",
+    "Type": "Bayonet",
+    "Known Units": "1/23"
+  },
+  {
+    "Skin Name": "Blackout",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "All chests",
+    "Type": "Revolver",
+    "Known Units": "1/11,025"
+  },
+  {
+    "Skin Name": "Blast",
+    "Skin Rarity": "Mythical",
+    "Base Value": "120,000",
+    "Obtainable By": "Blast Set Compenation",
+    "Type": "Character",
+    "Known Units": "1/2,177"
+  },
+  {
+    "Skin Name": "Blast AR-9",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "\"Blast\" 850x 💎",
+    "Type": "AR-9",
+    "Known Units": "1/245"
+  },
+  {
+    "Skin Name": "Blast Bayonet",
+    "Skin Rarity": "Mythical",
+    "Base Value": "650,000",
+    "Obtainable By": "\"Blast\" 850x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/248"
+  },
+  {
+    "Skin Name": "Blast LAR",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "\"Blast\" 850x 💎",
+    "Type": "LAR",
+    "Known Units": "1/245"
+  },
+  {
+    "Skin Name": "Blast M60",
+    "Skin Rarity": "Mythical",
+    "Base Value": "400,000",
+    "Obtainable By": "\"Blast\" 850x 💎",
+    "Type": "M60",
+    "Known Units": "1/242"
+  },
+  {
+    "Skin Name": "Blast MAC-10",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "\"Blast\" 850x 💎",
+    "Type": "MAC-10",
+    "Known Units": "1/243"
+  },
+  {
+    "Skin Name": "Blast Revolver",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "\"Blast\" 850x 💎",
+    "Type": "Revolver",
+    "Known Units": "1/244"
+  },
+  {
+    "Skin Name": "Blast SCAR",
+    "Skin Rarity": "Mythical",
+    "Base Value": "700,000",
+    "Obtainable By": "\"Blast\" 850x 💎",
+    "Type": "SCAR",
+    "Known Units": "1/248"
+  },
+  {
+    "Skin Name": "Blast Shark",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "\"Blast\" 850x 💎",
+    "Type": "Shark",
+    "Known Units": "1/244"
+  },
+  {
+    "Skin Name": "Blast Tomahawk",
+    "Skin Rarity": "Mythical",
+    "Base Value": "700,000",
+    "Obtainable By": "\"Blast\" 850x 💎",
+    "Type": "Tomahawk",
+    "Known Units": "1/254"
+  },
+  {
+    "Skin Name": "Blast VITA",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "\"Blast\" 850x 💎",
+    "Type": "VITA",
+    "Known Units": "1/247"
+  },
+  {
+    "Skin Name": "Blast Weatie",
+    "Skin Rarity": "Mythical",
+    "Base Value": "300,000",
+    "Obtainable By": "\"Blast\" 850x 💎",
+    "Type": "Weatie",
+    "Known Units": "1/238"
+  },
+  {
+    "Skin Name": "Bled",
+    "Skin Rarity": "Legendary",
+    "Base Value": "350,000,000",
+    "Obtainable By": "Spawned & Giveaway",
+    "Type": "Bayonet",
+    "Known Units": "1/12"
+  },
+  {
+    "Skin Name": "Blessed",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000",
+    "Obtainable By": "\"Dragonic\" 850x 💎",
+    "Type": "Character",
+    "Known Units": "1/315"
+  },
+  {
+    "Skin Name": "Bloo",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,000,000",
+    "Obtainable By": "250 KLO & 150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/86"
+  },
+  {
+    "Skin Name": "Blood Crystal",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/59,087"
+  },
+  {
+    "Skin Name": "Bloody",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "MAC-10",
+    "Known Units": "1/57,960"
+  },
+  {
+    "Skin Name": "Bloom",
+    "Skin Rarity": "Mythical",
+    "Base Value": "20,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/180"
+  },
+  {
+    "Skin Name": "Blue Hell",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "All chests",
+    "Type": "VITA",
+    "Known Units": "1/11,750"
+  },
+  {
+    "Skin Name": "Blueberry",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/113,487"
+  },
+  {
+    "Skin Name": "Boby",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/145,003"
+  },
+  {
+    "Skin Name": "Bok",
+    "Skin Rarity": "Mythical",
+    "Base Value": "550,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/338"
+  },
+  {
+    "Skin Name": "Bone",
+    "Skin Rarity": "Mythical",
+    "Base Value": "25,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/75"
+  },
+  {
+    "Skin Name": "Boo",
+    "Skin Rarity": "Legendary",
+    "Base Value": "62,500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/119"
+  },
+  {
+    "Skin Name": "Borg",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/167"
+  },
+  {
+    "Skin Name": "Born",
+    "Skin Rarity": "Mythical",
+    "Base Value": "350,000,000",
+    "Obtainable By": "5k M-60 Kills",
+    "Type": "M60",
+    "Known Units": "1/24"
+  },
+  {
+    "Skin Name": "Bromine",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/65,953"
+  },
+  {
+    "Skin Name": "Bros",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Gift for BVL members",
+    "Type": "VITA",
+    "Known Units": "1/10"
+  },
+  {
+    "Skin Name": "Brown",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "AR-9",
+    "Known Units": "1/47,500"
+  },
+  {
+    "Skin Name": "Bubblegum",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Weatie",
+    "Known Units": "1/108,539"
+  },
+  {
+    "Skin Name": "Bullseye",
+    "Skin Rarity": "Mythical",
+    "Base Value": "60,000,000",
+    "Obtainable By": "2 Subs on Twitch",
+    "Type": "Character",
+    "Known Units": "1/28"
+  },
+  {
+    "Skin Name": "Bunny",
+    "Skin Rarity": "Epic",
+    "Base Value": "130,000,000",
+    "Obtainable By": "80x 💎",
+    "Type": "Character",
+    "Known Units": "1/122"
+  },
+  {
+    "Skin Name": "Burger",
+    "Skin Rarity": "Legendary",
+    "Base Value": "225,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/774"
+  },
+  {
+    "Skin Name": "Bush",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "LAR",
+    "Known Units": "1/57,712"
+  },
+  {
+    "Skin Name": "Bushido",
+    "Skin Rarity": "Legendary",
+    "Base Value": "800,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/20"
+  },
+  {
+    "Skin Name": "Butterflies",
+    "Skin Rarity": "Legendary",
+    "Base Value": "625,000,000",
+    "Obtainable By": "Offical Giveaway",
+    "Type": "Bayonet",
+    "Known Units": "1/2"
+  },
+  {
+    "Skin Name": "Camilo",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/143,746"
+  },
+  {
+    "Skin Name": "Camouflage",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/29,340"
+  },
+  {
+    "Skin Name": "Candy",
+    "Skin Rarity": "Legendary",
+    "Base Value": "320,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/28"
+  },
+  {
+    "Skin Name": "Candy Illusion",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/59,299"
+  },
+  {
+    "Skin Name": "Cane",
+    "Skin Rarity": "Epic",
+    "Base Value": "60,000,000",
+    "Obtainable By": "80x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/91"
+  },
+  {
+    "Skin Name": "Capricorn",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,000,000",
+    "Obtainable By": "All chests",
+    "Type": "Tomahawk",
+    "Known Units": "1/157"
+  },
+  {
+    "Skin Name": "Carbon",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/12,777"
+  },
+  {
+    "Skin Name": "Carbon Fade",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "AR-9",
+    "Known Units": "1/55,434"
+  },
+  {
+    "Skin Name": "Cargo",
+    "Skin Rarity": "Legendary",
+    "Base Value": "20,000",
+    "Obtainable By": "All chests",
+    "Type": "SCAR",
+    "Known Units": "1/7,214"
+  },
+  {
+    "Skin Name": "Caring",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,500,000",
+    "Obtainable By": "1k Bayonet Kills",
+    "Type": "Bayonet",
+    "Known Units": "1/546"
+  },
+  {
+    "Skin Name": "Carrot",
+    "Skin Rarity": "Legendary",
+    "Base Value": "15,000",
+    "Obtainable By": "Party Pack",
+    "Type": "Character",
+    "Known Units": "1/18,305"
+  },
+  {
+    "Skin Name": "Case Hardened",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/102,035"
+  },
+  {
+    "Skin Name": "Cassiope",
+    "Skin Rarity": "Mythical",
+    "Base Value": "20,000,000",
+    "Obtainable By": "500 Mid-air 360 Kills",
+    "Type": "VITA",
+    "Known Units": "1/94"
+  },
+  {
+    "Skin Name": "Catalyst",
+    "Skin Rarity": "Mythical",
+    "Base Value": "5,000,000",
+    "Obtainable By": "5k MAC-10 Kills",
+    "Type": "MAC-10",
+    "Known Units": "1/79"
+  },
+  {
+    "Skin Name": "Celebrate",
+    "Skin Rarity": "Legendary",
+    "Base Value": "625,000",
+    "Obtainable By": "8th Clan War",
+    "Type": "Shark",
+    "Known Units": "1/2,003"
+  },
+  {
+    "Skin Name": "Ceru",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/264"
+  },
+  {
+    "Skin Name": "Champion",
+    "Skin Rarity": "Legendary",
+    "Base Value": "0",
+    "Obtainable By": "2022 Offical Tournament",
+    "Type": "Bayonet",
+    "Known Units": "1/1"
+  },
+  {
+    "Skin Name": "Charmed",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/197"
+  },
+  {
+    "Skin Name": "Checker",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "M60",
+    "Known Units": "1/57,788"
+  },
+  {
+    "Skin Name": "CheckUV",
+    "Skin Rarity": "Legendary",
+    "Base Value": "100,000",
+    "Obtainable By": "19th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/2,428"
+  },
+  {
+    "Skin Name": "Cheesy",
+    "Skin Rarity": "Legendary",
+    "Base Value": "17,500,000",
+    "Obtainable By": "2.5k Shark Kills",
+    "Type": "Shark",
+    "Known Units": "1/61"
+  },
+  {
+    "Skin Name": "Cherry",
+    "Skin Rarity": "Mythical",
+    "Base Value": "750,000,000",
+    "Obtainable By": "1k Bayonet H/S",
+    "Type": "Tomahawk",
+    "Known Units": "1/31"
+  },
+  {
+    "Skin Name": "Chess",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "LAR",
+    "Known Units": "1/106,932"
+  },
+  {
+    "Skin Name": "Chillin",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/460"
+  },
+  {
+    "Skin Name": "Choco",
+    "Skin Rarity": "Legendary",
+    "Base Value": "900,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/843"
+  },
+  {
+    "Skin Name": "Chocolate",
+    "Skin Rarity": "Legendary",
+    "Base Value": "400,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/32"
+  },
+  {
+    "Skin Name": "Chroma",
+    "Skin Rarity": "Mythical",
+    "Base Value": "400,000",
+    "Obtainable By": "20th Clan War",
+    "Type": "LAR",
+    "Known Units": "1/1,282"
+  },
+  {
+    "Skin Name": "Chromatic",
+    "Skin Rarity": "Legendary",
+    "Base Value": "950,000",
+    "Obtainable By": "15th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/259"
+  },
+  {
+    "Skin Name": "Cinder",
+    "Skin Rarity": "Mythical",
+    "Base Value": "850,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/569"
+  },
+  {
+    "Skin Name": "Circuit",
+    "Skin Rarity": "Common",
+    "Base Value": "2000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/66,226"
+  },
+  {
+    "Skin Name": "Citrouille",
+    "Skin Rarity": "Legendary",
+    "Base Value": "175,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/605"
+  },
+  {
+    "Skin Name": "Cloudy",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,000,000",
+    "Obtainable By": "7th Clan War",
+    "Type": "AR-9",
+    "Known Units": "1/1,740"
+  },
+  {
+    "Skin Name": "Clover",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "MAC-10",
+    "Known Units": "1/53"
+  },
+  {
+    "Skin Name": "Clownabeth",
+    "Skin Rarity": "Mythical",
+    "Base Value": "12,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/162"
+  },
+  {
+    "Skin Name": "Cold",
+    "Skin Rarity": "Common",
+    "Base Value": "500",
+    "Obtainable By": "Shop",
+    "Type": "Card",
+    "Known Units": "1/54,897"
+  },
+  {
+    "Skin Name": "Color",
+    "Skin Rarity": "Mythical",
+    "Base Value": "950,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/323"
+  },
+  {
+    "Skin Name": "Colton",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/150,058"
+  },
+  {
+    "Skin Name": "Complexity",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/56,331"
+  },
+  {
+    "Skin Name": "Constellations",
+    "Skin Rarity": "Mythical",
+    "Base Value": "22,000,000",
+    "Obtainable By": "15 hours or 2 subs Gecko",
+    "Type": "Bayonet",
+    "Known Units": "1/57"
+  },
+  {
+    "Skin Name": "Contrast",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "AR-9",
+    "Known Units": "1/101,339"
+  },
+  {
+    "Skin Name": "Cookie",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,500,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/274"
+  },
+  {
+    "Skin Name": "Coolas",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/25,555"
+  },
+  {
+    "Skin Name": "Cornfield",
+    "Skin Rarity": "Mythical",
+    "Base Value": "400,000",
+    "Obtainable By": "All chests",
+    "Type": "Bayonet",
+    "Known Units": "1/573"
+  },
+  {
+    "Skin Name": "Cosmos",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "All chests",
+    "Type": "VITA",
+    "Known Units": "1/979"
+  },
+  {
+    "Skin Name": "Cover",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/55,784"
+  },
+  {
+    "Skin Name": "Crash",
+    "Skin Rarity": "Legendary",
+    "Base Value": "5,000",
+    "Obtainable By": "All chests",
+    "Type": "M60",
+    "Known Units": "1/10,875"
+  },
+  {
+    "Skin Name": "Crazy",
+    "Skin Rarity": "Legendary",
+    "Base Value": "400,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "AR-9",
+    "Known Units": "1/26"
+  },
+  {
+    "Skin Name": "Crimson",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/53,167"
+  },
+  {
+    "Skin Name": "Critical",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/51,803"
+  },
+  {
+    "Skin Name": "Crosses",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/51,490"
+  },
+  {
+    "Skin Name": "Cryonic",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,500,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/164"
+  },
+  {
+    "Skin Name": "Cryptex",
+    "Skin Rarity": "Mythical",
+    "Base Value": "35,000,000",
+    "Obtainable By": "15 hrs Gecko/Boingoo",
+    "Type": "Bayonet",
+    "Known Units": "1/38"
+  },
+  {
+    "Skin Name": "Crystal",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "MAC-10",
+    "Known Units": "1/106,667"
+  },
+  {
+    "Skin Name": "Crystalized",
+    "Skin Rarity": "Mythical",
+    "Base Value": "80,000",
+    "Obtainable By": "33rd-34th Clan War",
+    "Type": "Revolver",
+    "Known Units": "1/1,182"
+  },
+  {
+    "Skin Name": "Cult",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/59,408"
+  },
+  {
+    "Skin Name": "Cupcake",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/264,274"
+  },
+  {
+    "Skin Name": "Cuprum",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/62,207"
+  },
+  {
+    "Skin Name": "Curry",
+    "Skin Rarity": "Epic",
+    "Base Value": "200,000,000",
+    "Obtainable By": "0th Clan War",
+    "Type": "Weatie",
+    "Known Units": "1/22"
+  },
+  {
+    "Skin Name": "Cyan",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "AR-9",
+    "Known Units": "1/100,016"
+  },
+  {
+    "Skin Name": "Cyber",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "All chests",
+    "Type": "LAR",
+    "Known Units": "1/11,674"
+  },
+  {
+    "Skin Name": "Cyber AR-9",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "\"Cyber\" 850x 💎",
+    "Type": "AR-9",
+    "Known Units": "1/242"
+  },
+  {
+    "Skin Name": "Cyber Bayonet",
+    "Skin Rarity": "Mythical",
+    "Base Value": "750,000",
+    "Obtainable By": "\"Cyber\" 850x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/245"
+  },
+  {
+    "Skin Name": "Cyber LAR",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "\"Cyber\" 850x 💎",
+    "Type": "LAR",
+    "Known Units": "1/241"
+  },
+  {
+    "Skin Name": "Cyber M60",
+    "Skin Rarity": "Mythical",
+    "Base Value": "450,000",
+    "Obtainable By": "\"Cyber\" 850x 💎",
+    "Type": "M60",
+    "Known Units": "1/237"
+  },
+  {
+    "Skin Name": "Cyber MAC-10",
+    "Skin Rarity": "Mythical",
+    "Base Value": "400,000",
+    "Obtainable By": "\"Cyber\" 850x 💎",
+    "Type": "MAC-10",
+    "Known Units": "1/239"
+  },
+  {
+    "Skin Name": "Cyber Revolver",
+    "Skin Rarity": "Mythical",
+    "Base Value": "400,000",
+    "Obtainable By": "\"Cyber\" 850x 💎",
+    "Type": "Revolver",
+    "Known Units": "1/241"
+  },
+  {
+    "Skin Name": "Cyber SCAR",
+    "Skin Rarity": "Mythical",
+    "Base Value": "700,000",
+    "Obtainable By": "\"Cyber\" 850x 💎",
+    "Type": "SCAR",
+    "Known Units": "1/242"
+  },
+  {
+    "Skin Name": "Cyber Shark",
+    "Skin Rarity": "Mythical",
+    "Base Value": "650,000",
+    "Obtainable By": "\"Cyber\" 850x 💎",
+    "Type": "Shark",
+    "Known Units": "1/238"
+  },
+  {
+    "Skin Name": "Cyber Tomahawk",
+    "Skin Rarity": "Mythical",
+    "Base Value": "750,000",
+    "Obtainable By": "\"Cyber\" 850x 💎",
+    "Type": "Tomahawk",
+    "Known Units": "1/243"
+  },
+  {
+    "Skin Name": "Cyber VITA",
+    "Skin Rarity": "Mythical",
+    "Base Value": "700,000",
+    "Obtainable By": "\"Cyber\" 850x 💎",
+    "Type": "VITA",
+    "Known Units": "1/239"
+  },
+  {
+    "Skin Name": "Cyber Weatie",
+    "Skin Rarity": "Mythical",
+    "Base Value": "300,000",
+    "Obtainable By": "\"Cyber\" 850x 💎",
+    "Type": "Weatie",
+    "Known Units": "1/240"
+  },
+  {
+    "Skin Name": "Cyberpunk",
+    "Skin Rarity": "Legendary",
+    "Base Value": "25,000",
+    "Obtainable By": "All chests",
+    "Type": "AR-9",
+    "Known Units": "1/11,294"
+  },
+  {
+    "Skin Name": "Cyborg",
+    "Skin Rarity": "Legendary",
+    "Base Value": "350,000",
+    "Obtainable By": "16th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/659"
+  },
+  {
+    "Skin Name": "Cyclop",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/251"
+  },
+  {
+    "Skin Name": "DaBaby",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/39,299"
+  },
+  {
+    "Skin Name": "Damascus",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,100,000",
+    "Obtainable By": "All chests",
+    "Type": "Tomahawk",
+    "Known Units": "1/257"
+  },
+  {
+    "Skin Name": "Dandelion",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "MAC-10",
+    "Known Units": "1/57,633"
+  },
+  {
+    "Skin Name": "Danger",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/52,219"
+  },
+  {
+    "Skin Name": "Darling",
+    "Skin Rarity": "Legendary",
+    "Base Value": "15,000",
+    "Obtainable By": "All chests",
+    "Type": "VITA",
+    "Known Units": "1/11,533"
+  },
+  {
+    "Skin Name": "Decorations",
+    "Skin Rarity": "Mythical",
+    "Base Value": "450,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/256"
+  },
+  {
+    "Skin Name": "Demon",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,250,000",
+    "Obtainable By": "15th Clan War",
+    "Type": "SCAR",
+    "Known Units": "1/655"
+  },
+  {
+    "Skin Name": "Destiny",
+    "Skin Rarity": "Legendary",
+    "Base Value": "15,000",
+    "Obtainable By": "Girls Band Pack",
+    "Type": "Character",
+    "Known Units": "1/15,779"
+  },
+  {
+    "Skin Name": "Diablo",
+    "Skin Rarity": "Legendary",
+    "Base Value": "25,000",
+    "Obtainable By": "33rd-34th Clan War",
+    "Type": "M60",
+    "Known Units": "1/4,235"
+  },
+  {
+    "Skin Name": "Diane",
+    "Skin Rarity": "Mythical",
+    "Base Value": "550,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/222"
+  },
+  {
+    "Skin Name": "Dissident",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,000,000,000",
+    "Obtainable By": "Glitched in chests/marketed",
+    "Type": "Shark",
+    "Known Units": "1/3"
+  },
+  {
+    "Skin Name": "Dob",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/155,482"
+  },
+  {
+    "Skin Name": "Donut",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "MAC-10",
+    "Known Units": "1/106,497"
+  },
+  {
+    "Skin Name": "Doom",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/10,885"
+  },
+  {
+    "Skin Name": "Dragon",
+    "Skin Rarity": "Mythical",
+    "Base Value": "750,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/230"
+  },
+  {
+    "Skin Name": "Dragonic AR-9",
+    "Skin Rarity": "Mythical",
+    "Base Value": "400,000",
+    "Obtainable By": "\"Dragonic\" 850x 💎",
+    "Type": "AR-9",
+    "Known Units": "1/301"
+  },
+  {
+    "Skin Name": "Dragonic Bayonet",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "\"Dragonic\" 850x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/309"
+  },
+  {
+    "Skin Name": "Dragonic LAR",
+    "Skin Rarity": "Mythical",
+    "Base Value": "350,000",
+    "Obtainable By": "\"Dragonic\" 850x 💎",
+    "Type": "LAR",
+    "Known Units": "1/300"
+  },
+  {
+    "Skin Name": "Dragonic M60",
+    "Skin Rarity": "Mythical",
+    "Base Value": "200,000",
+    "Obtainable By": "\"Dragonic\" 850x 💎",
+    "Type": "M60",
+    "Known Units": "1/291"
+  },
+  {
+    "Skin Name": "Dragonic MAC-10",
+    "Skin Rarity": "Mythical",
+    "Base Value": "300,000",
+    "Obtainable By": "\"Dragonic\" 850x 💎",
+    "Type": "MAC-10",
+    "Known Units": "1/294"
+  },
+  {
+    "Skin Name": "Dragonic Revolver",
+    "Skin Rarity": "Mythical",
+    "Base Value": "300,000",
+    "Obtainable By": "\"Dragonic\" 850x 💎",
+    "Type": "Revolver",
+    "Known Units": "1/302"
+  },
+  {
+    "Skin Name": "Dragonic SCAR",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "\"Dragonic\" 850x 💎",
+    "Type": "SCAR",
+    "Known Units": "1/304"
+  },
+  {
+    "Skin Name": "Dragonic Shark",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "\"Dragonic\" 850x 💎",
+    "Type": "Shark",
+    "Known Units": "1/311"
+  },
+  {
+    "Skin Name": "Dragonic Tomahawk",
+    "Skin Rarity": "Mythical",
+    "Base Value": "700,000",
+    "Obtainable By": "\"Dragonic\" 850x 💎",
+    "Type": "Tomahawk",
+    "Known Units": "1/319"
+  },
+  {
+    "Skin Name": "Dragonic VITA",
+    "Skin Rarity": "Mythical",
+    "Base Value": "650,000",
+    "Obtainable By": "\"Dragonic\" 850x 💎",
+    "Type": "VITA",
+    "Known Units": "1/315"
+  },
+  {
+    "Skin Name": "Dragonic Weatie",
+    "Skin Rarity": "Mythical",
+    "Base Value": "300,000",
+    "Obtainable By": "\"Dragonic\" 850x 💎",
+    "Type": "Weatie",
+    "Known Units": "1/295"
+  },
+  {
+    "Skin Name": "Drake",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "All chests",
+    "Type": "Bayonet",
+    "Known Units": "1/429"
+  },
+  {
+    "Skin Name": "Druboor",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/113,923"
+  },
+  {
+    "Skin Name": "Easter",
+    "Skin Rarity": "Legendary",
+    "Base Value": "110,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/30"
+  },
+  {
+    "Skin Name": "Eclipse",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/462"
+  },
+  {
+    "Skin Name": "Egg Hunt",
+    "Skin Rarity": "Mythical",
+    "Base Value": "4,500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/113"
+  },
+  {
+    "Skin Name": "Eggs",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/66"
+  },
+  {
+    "Skin Name": "Electra",
+    "Skin Rarity": "Mythical",
+    "Base Value": "15,000,000",
+    "Obtainable By": "5k Bayonet Kills",
+    "Type": "Bayonet",
+    "Known Units": "1/61"
+  },
+  {
+    "Skin Name": "Elf",
+    "Skin Rarity": "Mythical",
+    "Base Value": "650,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/225"
+  },
+  {
+    "Skin Name": "Elijah",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,000,000",
+    "Obtainable By": "\"Hot Rod\" 850x 💎",
+    "Type": "Character",
+    "Known Units": "1/45"
+  },
+  {
+    "Skin Name": "Elizabeth",
+    "Skin Rarity": "Default",
+    "Base Value": "0",
+    "Obtainable By": "Default Item",
+    "Type": "Character",
+    "Known Units": "1/270,312"
+  },
+  {
+    "Skin Name": "Ellie",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/29,300"
+  },
+  {
+    "Skin Name": "Elmoo",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/131,272"
+  },
+  {
+    "Skin Name": "Ember",
+    "Skin Rarity": "Mythical",
+    "Base Value": "550,000",
+    "Obtainable By": "watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/217"
+  },
+  {
+    "Skin Name": "Emoo",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/131,611"
+  },
+  {
+    "Skin Name": "Empress",
+    "Skin Rarity": "Legendary",
+    "Base Value": "2,500,000",
+    "Obtainable By": "12th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/592"
+  },
+  {
+    "Skin Name": "Enderman",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/45,121"
+  },
+  {
+    "Skin Name": "Endless",
+    "Skin Rarity": "Mythical",
+    "Base Value": "12,500,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/281"
+  },
+  {
+    "Skin Name": "Engravement",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "All chests",
+    "Type": "Bayonet",
+    "Known Units": "1/685"
+  },
+  {
+    "Skin Name": "Error",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/137"
+  },
+  {
+    "Skin Name": "Eruption",
+    "Skin Rarity": "Legendary",
+    "Base Value": "150,000",
+    "Obtainable By": "17 & 18th Clan War",
+    "Type": "Bayonet",
+    "Known Units": "1/4,624"
+  },
+  {
+    "Skin Name": "Esto",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/28,609"
+  },
+  {
+    "Skin Name": "Eva",
+    "Skin Rarity": "Legendary",
+    "Base Value": "20,000",
+    "Obtainable By": "All chests",
+    "Type": "AR-9",
+    "Known Units": "1/10,647"
+  },
+  {
+    "Skin Name": "Evening",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Weatie",
+    "Known Units": "1/58,302"
+  },
+  {
+    "Skin Name": "Fabric",
+    "Skin Rarity": "Common",
+    "Base Value": "200",
+    "Obtainable By": "All chests / Packs",
+    "Type": "AR-9",
+    "Known Units": "1/49,270"
+  },
+  {
+    "Skin Name": "Fade",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "All chests",
+    "Type": "Revolver",
+    "Known Units": "1/11,134"
+  },
+  {
+    "Skin Name": "Faded",
+    "Skin Rarity": "Mythical",
+    "Base Value": "40,000,000",
+    "Obtainable By": "5k Bayonet Kills",
+    "Type": "Bayonet",
+    "Known Units": "1/40"
+  },
+  {
+    "Skin Name": "Fading Waves",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Weatie",
+    "Known Units": "1/58,559"
+  },
+  {
+    "Skin Name": "Fallen",
+    "Skin Rarity": "Mythical",
+    "Base Value": "20,000,000",
+    "Obtainable By": "1000 KLO & 150x 💎",
+    "Type": "VITA",
+    "Known Units": "1/64"
+  },
+  {
+    "Skin Name": "Fanny",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/207"
+  },
+  {
+    "Skin Name": "Femboy",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Glitched in",
+    "Type": "Bayonet",
+    "Known Units": "1/1"
+  },
+  {
+    "Skin Name": "Ferrum",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/72,214"
+  },
+  {
+    "Skin Name": "Festive",
+    "Skin Rarity": "Legendary",
+    "Base Value": "500,000",
+    "Obtainable By": "8th Clan War",
+    "Type": "Revolver",
+    "Known Units": "1/507"
+  },
+  {
+    "Skin Name": "Fire",
+    "Skin Rarity": "Legendary",
+    "Base Value": "15,000",
+    "Obtainable By": "All chests",
+    "Type": "MAC-10",
+    "Known Units": "1/11,749"
+  },
+  {
+    "Skin Name": "Firecracker",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/235"
+  },
+  {
+    "Skin Name": "Firedemon",
+    "Skin Rarity": "Legendary",
+    "Base Value": "2,800,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/143"
+  },
+  {
+    "Skin Name": "Firefighter",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/108,767"
+  },
+  {
+    "Skin Name": "Flaming",
+    "Skin Rarity": "Mythical",
+    "Base Value": "115,000,000",
+    "Obtainable By": "10k Bayonet Kills",
+    "Type": "Bayonet",
+    "Known Units": "1/49"
+  },
+  {
+    "Skin Name": "Fleur",
+    "Skin Rarity": "Legendary",
+    "Base Value": "400,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/883"
+  },
+  {
+    "Skin Name": "Flow",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/57,877"
+  },
+  {
+    "Skin Name": "Flower",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,750,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/115"
+  },
+  {
+    "Skin Name": "Flowers",
+    "Skin Rarity": "Mythical",
+    "Base Value": "60,000,000",
+    "Obtainable By": "Sub to Kirka Twitch Stream",
+    "Type": "Character",
+    "Known Units": "1/52"
+  },
+  {
+    "Skin Name": "Foolish",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/216"
+  },
+  {
+    "Skin Name": "Forest",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/65,287"
+  },
+  {
+    "Skin Name": "Forge",
+    "Skin Rarity": "Legendary",
+    "Base Value": "900,000,000",
+    "Obtainable By": "Offical Giveaway",
+    "Type": "Bayonet",
+    "Known Units": "1/10"
+  },
+  {
+    "Skin Name": "Fortunado",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,000,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/674"
+  },
+  {
+    "Skin Name": "Fortunate",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/246"
+  },
+  {
+    "Skin Name": "Fragile",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,000,000",
+    "Obtainable By": "10K VITA Kills",
+    "Type": "VITA",
+    "Known Units": "1/152"
+  },
+  {
+    "Skin Name": "Fraken James",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/10,643"
+  },
+  {
+    "Skin Name": "Friendly",
+    "Skin Rarity": "Common",
+    "Base Value": "5,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/30,742"
+  },
+  {
+    "Skin Name": "Frosty",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/29,607"
+  },
+  {
+    "Skin Name": "Frozen",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "30,000,000",
+    "Obtainable By": "Cold Pack",
+    "Type": "Character",
+    "Known Units": "1/8"
+  },
+  {
+    "Skin Name": "Fruchtebrot",
+    "Skin Rarity": "Legendary",
+    "Base Value": "200,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/566"
+  },
+  {
+    "Skin Name": "Fudge",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "VITA",
+    "Known Units": "1/91"
+  },
+  {
+    "Skin Name": "Fun",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "LAR",
+    "Known Units": "1/111,800"
+  },
+  {
+    "Skin Name": "Fur",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/58,979"
+  },
+  {
+    "Skin Name": "Gaia",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/237"
+  },
+  {
+    "Skin Name": "Galaxy",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "2nd Clan War",
+    "Type": "LAR",
+    "Known Units": "1/63,459"
+  },
+  {
+    "Skin Name": "Galaxy",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "LAR",
+    "Known Units": "1/63,459"
+  },
+  {
+    "Skin Name": "Ganache",
+    "Skin Rarity": "Mythical",
+    "Base Value": "700,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Revolver",
+    "Known Units": "1/60"
+  },
+  {
+    "Skin Name": "Gem",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "M60",
+    "Known Units": "1/107,970"
+  },
+  {
+    "Skin Name": "Gem Stone",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/226"
+  },
+  {
+    "Skin Name": "Geode",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "50,000,000",
+    "Obtainable By": "Periodic Pack",
+    "Type": "Character",
+    "Known Units": "1/5"
+  },
+  {
+    "Skin Name": "George",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "M60",
+    "Known Units": "1/58,634"
+  },
+  {
+    "Skin Name": "GGLITCH",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,000,000",
+    "Obtainable By": "\"Cyber\" 850x 💎",
+    "Type": "Character",
+    "Known Units": "1/238"
+  },
+  {
+    "Skin Name": "Ghillie",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,000,000",
+    "Obtainable By": "Soldiers Pack",
+    "Type": "Character",
+    "Known Units": "1/159"
+  },
+  {
+    "Skin Name": "Ghost",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/62,823"
+  },
+  {
+    "Skin Name": "Ghosta",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/127,376"
+  },
+  {
+    "Skin Name": "Gift",
+    "Skin Rarity": "Epic",
+    "Base Value": "600,000,000",
+    "Obtainable By": "80x 💎",
+    "Type": "VITA",
+    "Known Units": "1/21"
+  },
+  {
+    "Skin Name": "Gilded",
+    "Skin Rarity": "Legendary",
+    "Base Value": "320,000",
+    "Obtainable By": "33rd-34th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/561"
+  },
+  {
+    "Skin Name": "Gingerman",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,250,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/38"
+  },
+  {
+    "Skin Name": "Girls band",
+    "Skin Rarity": "Common",
+    "Base Value": "500",
+    "Obtainable By": "Shop",
+    "Type": "Card",
+    "Known Units": "1/63,210"
+  },
+  {
+    "Skin Name": "Glacial",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Weatie",
+    "Known Units": "1/57,299"
+  },
+  {
+    "Skin Name": "Glance",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,000,000",
+    "Obtainable By": "12th Clan War",
+    "Type": "Bayonet",
+    "Known Units": "1/2,301"
+  },
+  {
+    "Skin Name": "Glitter",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/211"
+  },
+  {
+    "Skin Name": "Globe",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,500,000",
+    "Obtainable By": "7th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/207"
+  },
+  {
+    "Skin Name": "Gluerf",
+    "Skin Rarity": "Legendary",
+    "Base Value": "200,000",
+    "Obtainable By": "50 KLO & 60x 💎",
+    "Type": "Character",
+    "Known Units": "1/644"
+  },
+  {
+    "Skin Name": "Godzilla",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,000,000",
+    "Obtainable By": "14th Clan War",
+    "Type": "AR-9",
+    "Known Units": "1/637"
+  },
+  {
+    "Skin Name": "Goge",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/30,621"
+  },
+  {
+    "Skin Name": "Gold",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,550,000,000",
+    "Obtainable By": "0th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/25"
+  },
+  {
+    "Skin Name": "Golden",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,000",
+    "Obtainable By": "Shop",
+    "Type": "Chest",
+    "Known Units": "1/977,859"
+  },
+  {
+    "Skin Name": "Grass",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Weatie",
+    "Known Units": "1/113,267"
+  },
+  {
+    "Skin Name": "Gray",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/36,826"
+  },
+  {
+    "Skin Name": "Graya",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/136,601"
+  },
+  {
+    "Skin Name": "Greg",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "AR-9",
+    "Known Units": "1/100,392"
+  },
+  {
+    "Skin Name": "Grinch",
+    "Skin Rarity": "Epic",
+    "Base Value": "550,000,000",
+    "Obtainable By": "80x 💎",
+    "Type": "Character",
+    "Known Units": "1/32"
+  },
+  {
+    "Skin Name": "Grinchette",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "2,500 Score",
+    "Type": "Character",
+    "Known Units": "1/1,395"
+  },
+  {
+    "Skin Name": "Guts",
+    "Skin Rarity": "Legendary",
+    "Base Value": "250,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/279"
+  },
+  {
+    "Skin Name": "Hadley",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "M60",
+    "Known Units": "1/59,190"
+  },
+  {
+    "Skin Name": "Halloween",
+    "Skin Rarity": "Common",
+    "Base Value": "1,500",
+    "Obtainable By": "Shop",
+    "Type": "Chest",
+    "Known Units": "1/4,055,888"
+  },
+  {
+    "Skin Name": "Hallowkod",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/305"
+  },
+  {
+    "Skin Name": "Hannah",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "AR-9",
+    "Known Units": "1/55,588"
+  },
+  {
+    "Skin Name": "Hardened",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/57,301"
+  },
+  {
+    "Skin Name": "Hazmat",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "35,000,000",
+    "Obtainable By": "Soldiers Pack",
+    "Type": "Character",
+    "Known Units": "1/4"
+  },
+  {
+    "Skin Name": "Headless",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,200,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/222"
+  },
+  {
+    "Skin Name": "Heart",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/37,044"
+  },
+  {
+    "Skin Name": "Heartbeat",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/92"
+  },
+  {
+    "Skin Name": "Hearted",
+    "Skin Rarity": "Mythical",
+    "Base Value": "17,000,000",
+    "Obtainable By": "2.5k Shark Kills",
+    "Type": "Shark",
+    "Known Units": "1/69"
+  },
+  {
+    "Skin Name": "Hearts",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/487"
+  },
+  {
+    "Skin Name": "Heather",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/357"
+  },
+  {
+    "Skin Name": "Heatwave",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "All chests",
+    "Type": "VITA",
+    "Known Units": "1/11,454"
+  },
+  {
+    "Skin Name": "Height",
+    "Skin Rarity": "Legendary",
+    "Base Value": "5,000",
+    "Obtainable By": "All chests",
+    "Type": "Revolver",
+    "Known Units": "1/10,527"
+  },
+  {
+    "Skin Name": "Hell let loose",
+    "Skin Rarity": "Legendary",
+    "Base Value": "250,000",
+    "Obtainable By": "All chests",
+    "Type": "M60",
+    "Known Units": "1/2,328"
+  },
+  {
+    "Skin Name": "Hellbent",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,250,000",
+    "Obtainable By": "2.5K Shark Kills",
+    "Type": "Shark",
+    "Known Units": "1/224"
+  },
+  {
+    "Skin Name": "Hellizabeth",
+    "Skin Rarity": "Mythical",
+    "Base Value": "200,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/509"
+  },
+  {
+    "Skin Name": "Hellspawn",
+    "Skin Rarity": "Epic",
+    "Base Value": "2,000,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/174"
+  },
+  {
+    "Skin Name": "Hex",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/52,495"
+  },
+  {
+    "Skin Name": "Hexagon",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "M60",
+    "Known Units": "1/104,652"
+  },
+  {
+    "Skin Name": "Hideyoshi",
+    "Skin Rarity": "Epic",
+    "Base Value": "100,000,000",
+    "Obtainable By": "80x 💎",
+    "Type": "Character",
+    "Known Units": "1/104"
+  },
+  {
+    "Skin Name": "Hippy",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/43,408"
+  },
+  {
+    "Skin Name": "Hologram",
+    "Skin Rarity": "Mythical",
+    "Base Value": "400,000",
+    "Obtainable By": "All chests",
+    "Type": "Revolver",
+    "Known Units": "1/950"
+  },
+  {
+    "Skin Name": "Honey",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "All chests",
+    "Type": "Bayonet",
+    "Known Units": "1/380"
+  },
+  {
+    "Skin Name": "Hope",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "M60",
+    "Known Units": "1/108,785"
+  },
+  {
+    "Skin Name": "Hot Rod",
+    "Skin Rarity": "Mythical",
+    "Base Value": "700,000",
+    "Obtainable By": "2.5k Melee Kills",
+    "Type": "Bayonet",
+    "Known Units": "1/159"
+  },
+  {
+    "Skin Name": "Hotrod AR-9",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000",
+    "Obtainable By": "\"Hot Rod\" 850x 💎",
+    "Type": "AR-9",
+    "Known Units": "1/45"
+  },
+  {
+    "Skin Name": "Hotrod Bayonet",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,500,000",
+    "Obtainable By": "\"Hot Rod\" 850x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/43"
+  },
+  {
+    "Skin Name": "Hotrod LAR",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000",
+    "Obtainable By": "\"Hot Rod\" 850x 💎",
+    "Type": "LAR",
+    "Known Units": "1/45"
+  },
+  {
+    "Skin Name": "Hotrod M60",
+    "Skin Rarity": "Mythical",
+    "Base Value": "800,000",
+    "Obtainable By": "\"Hot Rod\" 850x 💎",
+    "Type": "M60",
+    "Known Units": "1/45"
+  },
+  {
+    "Skin Name": "Hotrod MAC-10",
+    "Skin Rarity": "Mythical",
+    "Base Value": "850,000",
+    "Obtainable By": "\"Hot Rod\" 850x 💎",
+    "Type": "MAC-10",
+    "Known Units": "1/46"
+  },
+  {
+    "Skin Name": "Hotrod Revolver",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000",
+    "Obtainable By": "\"Hot Rod\" 850x 💎",
+    "Type": "Revolver",
+    "Known Units": "1/44"
+  },
+  {
+    "Skin Name": "Hotrod SCAR",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,500,000",
+    "Obtainable By": "\"Hot Rod\" 850x 💎",
+    "Type": "SCAR",
+    "Known Units": "1/45"
+  },
+  {
+    "Skin Name": "Hotrod Shark",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,500,000",
+    "Obtainable By": "\"Hot Rod\" 850x 💎",
+    "Type": "Shark",
+    "Known Units": "1/45"
+  },
+  {
+    "Skin Name": "Hotrod Tomahawk",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,000,000",
+    "Obtainable By": "\"Hot Rod\" 850x 💎",
+    "Type": "Tomahawk",
+    "Known Units": "1/45"
+  },
+  {
+    "Skin Name": "Hotrod VITA",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,500,000",
+    "Obtainable By": "\"Hot Rod\" 850x 💎",
+    "Type": "VITA",
+    "Known Units": "1/45"
+  },
+  {
+    "Skin Name": "Hotrod Weatie",
+    "Skin Rarity": "Mythical",
+    "Base Value": "800,000",
+    "Obtainable By": "\"Hot Rod\" 850x 💎",
+    "Type": "Weatie",
+    "Known Units": "1/45"
+  },
+  {
+    "Skin Name": "Howl",
+    "Skin Rarity": "Legendary",
+    "Base Value": "18,000,000",
+    "Obtainable By": "16th Clan War",
+    "Type": "LAR",
+    "Known Units": "1/290"
+  },
+  {
+    "Skin Name": "Hubbard",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/59,104"
+  },
+  {
+    "Skin Name": "Hunter",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/56,820"
+  },
+  {
+    "Skin Name": "Hypnotic",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "2.5k Bayonet Kills",
+    "Type": "Bayonet",
+    "Known Units": "1/434"
+  },
+  {
+    "Skin Name": "Ice",
+    "Skin Rarity": "Epic",
+    "Base Value": "500",
+    "Obtainable By": "Shop",
+    "Type": "Chest",
+    "Known Units": "1/780,714"
+  },
+  {
+    "Skin Name": "Ice Cold",
+    "Skin Rarity": "Legendary",
+    "Base Value": "2,300,000",
+    "Obtainable By": "484 Shark H/S",
+    "Type": "Shark",
+    "Known Units": "1/301"
+  },
+  {
+    "Skin Name": "Icey",
+    "Skin Rarity": "Legendary",
+    "Base Value": "200,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/1,779"
+  },
+  {
+    "Skin Name": "Icing",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/323"
+  },
+  {
+    "Skin Name": "IMGERROR",
+    "Skin Rarity": "Mythical",
+    "Base Value": "35,000",
+    "Obtainable By": "Play 15 min of kirka",
+    "Type": "Character",
+    "Known Units": "1/0"
+  },
+  {
+    "Skin Name": "Imperial",
+    "Skin Rarity": "Mythical",
+    "Base Value": "20,000,000",
+    "Obtainable By": "1300 KLO & 150x 💎",
+    "Type": "SCAR",
+    "Known Units": "1/197"
+  },
+  {
+    "Skin Name": "Infarction",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/150"
+  },
+  {
+    "Skin Name": "Infernal",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "AR-9",
+    "Known Units": "1/253"
+  },
+  {
+    "Skin Name": "Infra",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/55,702"
+  },
+  {
+    "Skin Name": "Iridium",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/11,301"
+  },
+  {
+    "Skin Name": "Iron",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Weatie",
+    "Known Units": "1/62,212"
+  },
+  {
+    "Skin Name": "Isolation",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Weatie",
+    "Known Units": "1/105,941"
+  },
+  {
+    "Skin Name": "Ivoire",
+    "Skin Rarity": "Mythical",
+    "Base Value": "250,000",
+    "Obtainable By": "All chests",
+    "Type": "Revolver",
+    "Known Units": "1/920"
+  },
+  {
+    "Skin Name": "Jade",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "All chests",
+    "Type": "Bayonet",
+    "Known Units": "1/418"
+  },
+  {
+    "Skin Name": "James",
+    "Skin Rarity": "Default",
+    "Base Value": "0",
+    "Obtainable By": "Default Item",
+    "Type": "Character",
+    "Known Units": "1/270,134"
+  },
+  {
+    "Skin Name": "Jamyers",
+    "Skin Rarity": "Mythical",
+    "Base Value": "650,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/48"
+  },
+  {
+    "Skin Name": "Janett",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/208"
+  },
+  {
+    "Skin Name": "Jap",
+    "Skin Rarity": "Legendary",
+    "Base Value": "5,000",
+    "Obtainable By": "All chests",
+    "Type": "Weatie",
+    "Known Units": "1/11,019"
+  },
+  {
+    "Skin Name": "Jaymeson",
+    "Skin Rarity": "Legendary",
+    "Base Value": "250,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/573"
+  },
+  {
+    "Skin Name": "Jombie",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/118,830"
+  },
+  {
+    "Skin Name": "Juicer",
+    "Skin Rarity": "Legendary",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Gift for Irrvlo",
+    "Type": "Character",
+    "Known Units": "1/1"
+  },
+  {
+    "Skin Name": "Karo",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/101,977"
+  },
+  {
+    "Skin Name": "KEKW",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Gift for Skywalk",
+    "Type": "Character",
+    "Known Units": "1/1"
+  },
+  {
+    "Skin Name": "Keon",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/32,510"
+  },
+  {
+    "Skin Name": "Kin",
+    "Skin Rarity": "Legendary",
+    "Base Value": "14,500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/90"
+  },
+  {
+    "Skin Name": "King",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/40,698"
+  },
+  {
+    "Skin Name": "Kingdracula",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/288,640"
+  },
+  {
+    "Skin Name": "Kiss",
+    "Skin Rarity": "Legendary",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Offical Giveaway",
+    "Type": "Shark",
+    "Known Units": "1/2"
+  },
+  {
+    "Skin Name": "Knightfall",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,500,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/251"
+  },
+  {
+    "Skin Name": "Kod",
+    "Skin Rarity": "Legendary",
+    "Base Value": "270,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/136"
+  },
+  {
+    "Skin Name": "Koi",
+    "Skin Rarity": "Mythical",
+    "Base Value": "550,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/173"
+  },
+  {
+    "Skin Name": "Korunami",
+    "Skin Rarity": "Mythical",
+    "Base Value": "240,000",
+    "Obtainable By": "37th Clan War",
+    "Type": "LAR",
+    "Known Units": "1/1,071"
+  },
+  {
+    "Skin Name": "Kraken",
+    "Skin Rarity": "Legendary",
+    "Base Value": "150,000",
+    "Obtainable By": "36th Clan War",
+    "Type": "Shark",
+    "Known Units": "1/2,334"
+  },
+  {
+    "Skin Name": "Krampus",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "27,545 Score",
+    "Type": "Character",
+    "Known Units": "1/648"
+  },
+  {
+    "Skin Name": "Kyoto",
+    "Skin Rarity": "Rare",
+    "Base Value": "1,500,000",
+    "Obtainable By": "1st Clan War",
+    "Type": "LAR",
+    "Known Units": "1/1,207"
+  },
+  {
+    "Skin Name": "Labyrinth",
+    "Skin Rarity": "Legendary",
+    "Base Value": "110,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "VITA",
+    "Known Units": "1/62"
+  },
+  {
+    "Skin Name": "Land",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "MAC-10",
+    "Known Units": "1/57,449"
+  },
+  {
+    "Skin Name": "Landoh",
+    "Skin Rarity": "Legendary",
+    "Base Value": "80,000",
+    "Obtainable By": "31st Clan War",
+    "Type": "VITA",
+    "Known Units": "1/539"
+  },
+  {
+    "Skin Name": "Landscape",
+    "Skin Rarity": "Mythical",
+    "Base Value": "6,000,000",
+    "Obtainable By": "250 PAR Wins",
+    "Type": "Character",
+    "Known Units": "1/92"
+  },
+  {
+    "Skin Name": "LAR",
+    "Skin Rarity": "Default",
+    "Base Value": "0",
+    "Obtainable By": "Default Item",
+    "Type": "LAR",
+    "Known Units": "1/270,133"
+  },
+  {
+    "Skin Name": "Larry",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "M60",
+    "Known Units": "1/110,247"
+  },
+  {
+    "Skin Name": "Lashes",
+    "Skin Rarity": "Legendary",
+    "Base Value": "250,000",
+    "Obtainable By": "50x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/540"
+  },
+  {
+    "Skin Name": "Latern",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/35,532"
+  },
+  {
+    "Skin Name": "Lava",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "LAR",
+    "Known Units": "1/60,709"
+  },
+  {
+    "Skin Name": "Legend",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,000,000,000",
+    "Obtainable By": "2022 Offcial Tournamnet",
+    "Type": "VITA",
+    "Known Units": "1/8"
+  },
+  {
+    "Skin Name": "Lemon",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "2nd Clan War",
+    "Type": "MAC-10",
+    "Known Units": "1/115,522"
+  },
+  {
+    "Skin Name": "Lemon",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "MAC-10",
+    "Known Units": "1/115,522"
+  },
+  {
+    "Skin Name": "LEO",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "AR-9",
+    "Known Units": "1/52,867"
+  },
+  {
+    "Skin Name": "Leopard",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/107,027"
+  },
+  {
+    "Skin Name": "Liberty",
+    "Skin Rarity": "Legendary",
+    "Base Value": "700,000",
+    "Obtainable By": "36th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/276"
+  },
+  {
+    "Skin Name": "Lightning",
+    "Skin Rarity": "Epic",
+    "Base Value": "8,000,000",
+    "Obtainable By": "1st Clan War",
+    "Type": "AR-9",
+    "Known Units": "1/624"
+  },
+  {
+    "Skin Name": "Lilith",
+    "Skin Rarity": "Mythical",
+    "Base Value": "150,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/528"
+  },
+  {
+    "Skin Name": "Lis",
+    "Skin Rarity": "Mythical",
+    "Base Value": "250,000",
+    "Obtainable By": "36th Clan War",
+    "Type": "Revolver",
+    "Known Units": "1/632"
+  },
+  {
+    "Skin Name": "LMAO",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/391"
+  },
+  {
+    "Skin Name": "LOL",
+    "Skin Rarity": "Epic",
+    "Base Value": "575,000,000",
+    "Obtainable By": "80x 💎",
+    "Type": "Character",
+    "Known Units": "1/73"
+  },
+  {
+    "Skin Name": "Lola",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,000,000",
+    "Obtainable By": "\"Hot Rod\" 850x 💎",
+    "Type": "Character",
+    "Known Units": "1/47"
+  },
+  {
+    "Skin Name": "London",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/30,915"
+  },
+  {
+    "Skin Name": "Lor",
+    "Skin Rarity": "Legendary",
+    "Base Value": "90,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/179"
+  },
+  {
+    "Skin Name": "Love",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,850,000,000",
+    "Obtainable By": "Offical Giveaway",
+    "Type": "VITA",
+    "Known Units": "1/5"
+  },
+  {
+    "Skin Name": "Love Bites",
+    "Skin Rarity": "Mythical",
+    "Base Value": "550,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/403"
+  },
+  {
+    "Skin Name": "Loved",
+    "Skin Rarity": "Mythical",
+    "Base Value": "18,000,000",
+    "Obtainable By": "1k Bayonet Kills",
+    "Type": "Bayonet",
+    "Known Units": "1/81"
+  },
+  {
+    "Skin Name": "Lucky",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,200,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/187"
+  },
+  {
+    "Skin Name": "Lucy",
+    "Skin Rarity": "Legendary",
+    "Base Value": "200,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/401"
+  },
+  {
+    "Skin Name": "Lunar",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000,000",
+    "Obtainable By": "25k VITA Kills",
+    "Type": "VITA",
+    "Known Units": "1/25"
+  },
+  {
+    "Skin Name": "Lux",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "All chests",
+    "Type": "LAR",
+    "Known Units": "1/11,730"
+  },
+  {
+    "Skin Name": "Lydia",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/182,284"
+  },
+  {
+    "Skin Name": "M60",
+    "Skin Rarity": "Default",
+    "Base Value": "0",
+    "Obtainable By": "Default Item",
+    "Type": "M60",
+    "Known Units": "1/270,133"
+  },
+  {
+    "Skin Name": "MAC-10",
+    "Skin Rarity": "Default",
+    "Base Value": "0",
+    "Obtainable By": "Default Item",
+    "Type": "MAC-10",
+    "Known Units": "1/270,133"
+  },
+  {
+    "Skin Name": "Machinery",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,000,000",
+    "Obtainable By": "6th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/197"
+  },
+  {
+    "Skin Name": "Magic Splat",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/55,858"
+  },
+  {
+    "Skin Name": "Magma",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/108,365"
+  },
+  {
+    "Skin Name": "Magnum",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/54,939"
+  },
+  {
+    "Skin Name": "Maid",
+    "Skin Rarity": "Mythical",
+    "Base Value": "8,750,000",
+    "Obtainable By": "Watch 15 hours MikeyO",
+    "Type": "Character",
+    "Known Units": "1/132"
+  },
+  {
+    "Skin Name": "Majestic",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "All chests",
+    "Type": "Shark",
+    "Known Units": "1/905"
+  },
+  {
+    "Skin Name": "Major",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/31,840"
+  },
+  {
+    "Skin Name": "Maksim",
+    "Skin Rarity": "Legendary",
+    "Base Value": "15,000",
+    "Obtainable By": "Soldiers Pack",
+    "Type": "Character",
+    "Known Units": "1/16,260"
+  },
+  {
+    "Skin Name": "Malachite",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "MAC-10",
+    "Known Units": "1/108,846"
+  },
+  {
+    "Skin Name": "Marbled",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "MAC-10",
+    "Known Units": "1/56,976"
+  },
+  {
+    "Skin Name": "Maria",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/31,017"
+  },
+  {
+    "Skin Name": "Mariah",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/31,583"
+  },
+  {
+    "Skin Name": "Master",
+    "Skin Rarity": "Legendary",
+    "Base Value": "700,000,000",
+    "Obtainable By": "2022 Offical Tournamnet",
+    "Type": "AR-9",
+    "Known Units": "1/22"
+  },
+  {
+    "Skin Name": "Maxwell",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "MAC-10",
+    "Known Units": "1/110,108"
+  },
+  {
+    "Skin Name": "Maze",
+    "Skin Rarity": "Epic",
+    "Base Value": "35,000,000",
+    "Obtainable By": "80x 💎",
+    "Type": "Character",
+    "Known Units": "1/219"
+  },
+  {
+    "Skin Name": "Megalodon",
+    "Skin Rarity": "Legendary",
+    "Base Value": "2,500,000",
+    "Obtainable By": "14th Clan War",
+    "Type": "Shark",
+    "Known Units": "1/250"
+  },
+  {
+    "Skin Name": "Melody",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,000,000",
+    "Obtainable By": "Girls Band Pack",
+    "Type": "Character",
+    "Known Units": "1/148"
+  },
+  {
+    "Skin Name": "Melon",
+    "Skin Rarity": "Legendary",
+    "Base Value": "250,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/306"
+  },
+  {
+    "Skin Name": "MemeStar",
+    "Skin Rarity": "Legendary",
+    "Base Value": "2,000,000",
+    "Obtainable By": "5th Clan War",
+    "Type": "LAR",
+    "Known Units": "1/462"
+  },
+  {
+    "Skin Name": "MemeStarTV",
+    "Skin Rarity": "Legendary",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Gift for First map maker",
+    "Type": "Character",
+    "Known Units": "1/1"
+  },
+  {
+    "Skin Name": "Metallic",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/67,025"
+  },
+  {
+    "Skin Name": "Metallic Rainbow",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "2nd Clan War / chests",
+    "Type": "VITA",
+    "Known Units": "1/12,210"
+  },
+  {
+    "Skin Name": "Meteor",
+    "Skin Rarity": "Mythical",
+    "Base Value": "400,000",
+    "Obtainable By": "17 & 18th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/529"
+  },
+  {
+    "Skin Name": "Metro",
+    "Skin Rarity": "Mythical",
+    "Base Value": "7,000,000",
+    "Obtainable By": "10k AR-9 Kills",
+    "Type": "AR-9",
+    "Known Units": "1/106"
+  },
+  {
+    "Skin Name": "Mili",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "M60",
+    "Known Units": "1/58,285"
+  },
+  {
+    "Skin Name": "Military",
+    "Skin Rarity": "Common",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/29,044"
+  },
+  {
+    "Skin Name": "Milkyway",
+    "Skin Rarity": "Mythical",
+    "Base Value": "650,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/216"
+  },
+  {
+    "Skin Name": "Milo",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "MAC-10",
+    "Known Units": "1/60,534"
+  },
+  {
+    "Skin Name": "Mindframe",
+    "Skin Rarity": "Mythical",
+    "Base Value": "150,000",
+    "Obtainable By": "10,297 MAC-10 Score",
+    "Type": "MAC-10",
+    "Known Units": "1/869"
+  },
+  {
+    "Skin Name": "Mirror",
+    "Skin Rarity": "Mythical",
+    "Base Value": "50,000,000",
+    "Obtainable By": "20k VITA Kills",
+    "Type": "VITA",
+    "Known Units": "1/62"
+  },
+  {
+    "Skin Name": "Mistletoe",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/410"
+  },
+  {
+    "Skin Name": "Mohito",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/109,945"
+  },
+  {
+    "Skin Name": "Moira",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "AR-9",
+    "Known Units": "1/55,376"
+  },
+  {
+    "Skin Name": "Molten Core",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "MAC-10",
+    "Known Units": "1/59,809"
+  },
+  {
+    "Skin Name": "Mommy",
+    "Skin Rarity": "Legendary",
+    "Base Value": "160,000,000",
+    "Obtainable By": "10k AR-9 Kills",
+    "Type": "AR-9",
+    "Known Units": "1/45"
+  },
+  {
+    "Skin Name": "Momo",
+    "Skin Rarity": "Legendary",
+    "Base Value": "250,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/397"
+  },
+  {
+    "Skin Name": "Monarch",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,800,000",
+    "Obtainable By": "500 KLO & 150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/259"
+  },
+  {
+    "Skin Name": "Monk",
+    "Skin Rarity": "Mythical",
+    "Base Value": "25,000,000",
+    "Obtainable By": "500 PAR Wins",
+    "Type": "Character",
+    "Known Units": "1/70"
+  },
+  {
+    "Skin Name": "Monkey",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/110,458"
+  },
+  {
+    "Skin Name": "Moon",
+    "Skin Rarity": "Legendary",
+    "Base Value": "200,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/1,014"
+  },
+  {
+    "Skin Name": "Mossy",
+    "Skin Rarity": "Legendary",
+    "Base Value": "750,000",
+    "Obtainable By": "10th Clan War",
+    "Type": "Shark",
+    "Known Units": "1/550"
+  },
+  {
+    "Skin Name": "Murdered",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/10,692"
+  },
+  {
+    "Skin Name": "Mya",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/191,455"
+  },
+  {
+    "Skin Name": "Mystic",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/102,471"
+  },
+  {
+    "Skin Name": "Nature",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/275"
+  },
+  {
+    "Skin Name": "Navy",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/51,675"
+  },
+  {
+    "Skin Name": "Nebula",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/61,173"
+  },
+  {
+    "Skin Name": "Neon",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Weatie",
+    "Known Units": "1/64,567"
+  },
+  {
+    "Skin Name": "Nerida",
+    "Skin Rarity": "Mythical",
+    "Base Value": "800,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/152"
+  },
+  {
+    "Skin Name": "New",
+    "Skin Rarity": "Legendary",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Gift for Kirka Admin",
+    "Type": "Bayonet",
+    "Known Units": "1/1"
+  },
+  {
+    "Skin Name": "New Year",
+    "Skin Rarity": "Epic",
+    "Base Value": "600,000,000",
+    "Obtainable By": "Glitched in chests",
+    "Type": "Shark",
+    "Known Units": "1/9"
+  },
+  {
+    "Skin Name": "Nib",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/205"
+  },
+  {
+    "Skin Name": "Nib",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/205"
+  },
+  {
+    "Skin Name": "Noah",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/149,303"
+  },
+  {
+    "Skin Name": "Noble",
+    "Skin Rarity": "Legendary",
+    "Base Value": "7,000,000",
+    "Obtainable By": "10th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/244"
+  },
+  {
+    "Skin Name": "Noir",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Weatie",
+    "Known Units": "1/57,948"
+  },
+  {
+    "Skin Name": "Normal Map",
+    "Skin Rarity": "Legendary",
+    "Base Value": "15,000",
+    "Obtainable By": "All chests",
+    "Type": "LAR",
+    "Known Units": "1/11,351"
+  },
+  {
+    "Skin Name": "Nova",
+    "Skin Rarity": "Mythical",
+    "Base Value": "400,000",
+    "Obtainable By": "20th Clan War",
+    "Type": "SCAR",
+    "Known Units": "1/4,356"
+  },
+  {
+    "Skin Name": "Nuclear Waste",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Weatie",
+    "Known Units": "1/112,805"
+  },
+  {
+    "Skin Name": "Nukem",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/11,414"
+  },
+  {
+    "Skin Name": "Nyan Cat",
+    "Skin Rarity": "Legendary",
+    "Base Value": "450,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "VITA",
+    "Known Units": "1/59"
+  },
+  {
+    "Skin Name": "Nyan Dog",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "55,000,000",
+    "Obtainable By": "Party Pack",
+    "Type": "Character",
+    "Known Units": "1/4"
+  },
+  {
+    "Skin Name": "Nyan Shark",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/427"
+  },
+  {
+    "Skin Name": "Obsidian",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "AR-9",
+    "Known Units": "1/58,254"
+  },
+  {
+    "Skin Name": "Old",
+    "Skin Rarity": "Legendary",
+    "Base Value": "325,000,000",
+    "Obtainable By": "First 100 accounts ",
+    "Type": "Bayonet",
+    "Known Units": "1/87"
+  },
+  {
+    "Skin Name": "Or",
+    "Skin Rarity": "Mythical",
+    "Base Value": "300,000",
+    "Obtainable By": "All chests",
+    "Type": "Bayonet",
+    "Known Units": "1/928"
+  },
+  {
+    "Skin Name": "Orbit",
+    "Skin Rarity": "Legendary",
+    "Base Value": "250,000",
+    "Obtainable By": "11th Clan War",
+    "Type": "LAR",
+    "Known Units": "1/581"
+  },
+  {
+    "Skin Name": "Orchid",
+    "Skin Rarity": "Mythical",
+    "Base Value": "8,500,000",
+    "Obtainable By": "3k Shark Kills",
+    "Type": "Shark",
+    "Known Units": "1/128"
+  },
+  {
+    "Skin Name": "Ornaments",
+    "Skin Rarity": "Mythical",
+    "Base Value": "450,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/384"
+  },
+  {
+    "Skin Name": "Ostern",
+    "Skin Rarity": "Legendary",
+    "Base Value": "235,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/20"
+  },
+  {
+    "Skin Name": "Owen",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/145,836"
+  },
+  {
+    "Skin Name": "Oxygen",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/11,375"
+  },
+  {
+    "Skin Name": "P-40",
+    "Skin Rarity": "Legendary",
+    "Base Value": "55,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/64"
+  },
+  {
+    "Skin Name": "Pale",
+    "Skin Rarity": "Common",
+    "Base Value": "300",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/29,404"
+  },
+  {
+    "Skin Name": "Paques",
+    "Skin Rarity": "Epic",
+    "Base Value": "200,000,000",
+    "Obtainable By": "80x 💎",
+    "Type": "VITA",
+    "Known Units": "1/34"
+  },
+  {
+    "Skin Name": "Party",
+    "Skin Rarity": "Common",
+    "Base Value": "500",
+    "Obtainable By": "Shop",
+    "Type": "Card",
+    "Known Units": "1/43,175"
+  },
+  {
+    "Skin Name": "Pastel",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,500,000",
+    "Obtainable By": "Party Pack",
+    "Type": "Character",
+    "Known Units": "1/148"
+  },
+  {
+    "Skin Name": "Payton",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/189,166"
+  },
+  {
+    "Skin Name": "PCB",
+    "Skin Rarity": "Legendary",
+    "Base Value": "500,000",
+    "Obtainable By": "4th Clan War",
+    "Type": "M60",
+    "Known Units": "1/342"
+  },
+  {
+    "Skin Name": "Peachy",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/56,909"
+  },
+  {
+    "Skin Name": "Pebbles",
+    "Skin Rarity": "Mythical",
+    "Base Value": "10,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/97"
+  },
+  {
+    "Skin Name": "Pecan",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "LAR",
+    "Known Units": "1/58,704"
+  },
+  {
+    "Skin Name": "Pegas",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "AR-9",
+    "Known Units": "1/50,562"
+  },
+  {
+    "Skin Name": "Pencil",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,250,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/127"
+  },
+  {
+    "Skin Name": "Peppermint",
+    "Skin Rarity": "Legendary",
+    "Base Value": "12,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/174"
+  },
+  {
+    "Skin Name": "Periodic",
+    "Skin Rarity": "Common",
+    "Base Value": "f",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Card",
+    "Known Units": "1/20,087"
+  },
+  {
+    "Skin Name": "Petal",
+    "Skin Rarity": "Legendary",
+    "Base Value": "250,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Shark",
+    "Known Units": "1/361"
+  },
+  {
+    "Skin Name": "Phantom",
+    "Skin Rarity": "Mythical",
+    "Base Value": "4,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/156"
+  },
+  {
+    "Skin Name": "Picea",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/29,033"
+  },
+  {
+    "Skin Name": "Pigo",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/149,347"
+  },
+  {
+    "Skin Name": "Pine",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/29,368"
+  },
+  {
+    "Skin Name": "Pineapple",
+    "Skin Rarity": "Rare",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/67,554"
+  },
+  {
+    "Skin Name": "Pink Camouflage",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/112,254"
+  },
+  {
+    "Skin Name": "Pink Demon",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "M60",
+    "Known Units": "1/59,517"
+  },
+  {
+    "Skin Name": "Placate",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,000,000",
+    "Obtainable By": "1k Bayonet Kills",
+    "Type": "Bayonet",
+    "Known Units": "1/445"
+  },
+  {
+    "Skin Name": "Plague",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/11,034"
+  },
+  {
+    "Skin Name": "Playdate",
+    "Skin Rarity": "Mythical",
+    "Base Value": "25,000,000",
+    "Obtainable By": "2.5k Shark Kills",
+    "Type": "Shark",
+    "Known Units": "1/52"
+  },
+  {
+    "Skin Name": "Playmate",
+    "Skin Rarity": "Mythical",
+    "Base Value": "12,000,000",
+    "Obtainable By": "5k VITA Kills",
+    "Type": "VITA",
+    "Known Units": "1/88"
+  },
+  {
+    "Skin Name": "Plum",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "LAR",
+    "Known Units": "1/59,073"
+  },
+  {
+    "Skin Name": "Polar",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,500,000",
+    "Obtainable By": "Cold Pack",
+    "Type": "Character",
+    "Known Units": "1/141"
+  },
+  {
+    "Skin Name": "Polychrome",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,200,000",
+    "Obtainable By": "30th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/270"
+  },
+  {
+    "Skin Name": "Polygon",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000",
+    "Obtainable By": "65,000 kills",
+    "Type": "Bayonet",
+    "Known Units": "1/2"
+  },
+  {
+    "Skin Name": "Polygun",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/110,425"
+  },
+  {
+    "Skin Name": "Pontianak James",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/10,964"
+  },
+  {
+    "Skin Name": "Pool Blaster",
+    "Skin Rarity": "Legendary",
+    "Base Value": "30,000",
+    "Obtainable By": "31st Clan War",
+    "Type": "MAC-10",
+    "Known Units": "1/1,298"
+  },
+  {
+    "Skin Name": "Priceless",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000,000",
+    "Obtainable By": "2025 Resunz Championship",
+    "Type": "M60",
+    "Known Units": "1/4"
+  },
+  {
+    "Skin Name": "Promethium",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/11,177"
+  },
+  {
+    "Skin Name": "Proton Beam",
+    "Skin Rarity": "Legendary",
+    "Base Value": "250,000",
+    "Obtainable By": "9th Clan War",
+    "Type": "LAR",
+    "Known Units": "1/1,956"
+  },
+  {
+    "Skin Name": "Psychedelic",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "40,000,000",
+    "Obtainable By": "Spawned",
+    "Type": "Bayonet",
+    "Known Units": "1/4"
+  },
+  {
+    "Skin Name": "Psycho",
+    "Skin Rarity": "Legendary",
+    "Base Value": "20,000",
+    "Obtainable By": "All chests",
+    "Type": "SCAR",
+    "Known Units": "1/7,059"
+  },
+  {
+    "Skin Name": "Pulse",
+    "Skin Rarity": "Mythical",
+    "Base Value": "250,000",
+    "Obtainable By": "All chests",
+    "Type": "Revolver",
+    "Known Units": "1/833"
+  },
+  {
+    "Skin Name": "Pumpgirl",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/286,963"
+  },
+  {
+    "Skin Name": "Pumpkinspice",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/109,759"
+  },
+  {
+    "Skin Name": "Pumpreaper",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/10,828"
+  },
+  {
+    "Skin Name": "Punishment",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,700,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/249"
+  },
+  {
+    "Skin Name": "Puppet",
+    "Skin Rarity": "Mythical",
+    "Base Value": "150,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/559"
+  },
+  {
+    "Skin Name": "Queen",
+    "Skin Rarity": "Mythical",
+    "Base Value": "10,000,000",
+    "Obtainable By": "30k Kills",
+    "Type": "Character",
+    "Known Units": "1/116"
+  },
+  {
+    "Skin Name": "Quilliam",
+    "Skin Rarity": "Mythical",
+    "Base Value": "40,000,000",
+    "Obtainable By": "10k VITA Kills",
+    "Type": "VITA",
+    "Known Units": "1/122"
+  },
+  {
+    "Skin Name": "Rabbit",
+    "Skin Rarity": "Mythical",
+    "Base Value": "550,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/67"
+  },
+  {
+    "Skin Name": "Rad",
+    "Skin Rarity": "Legendary",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Gift for Kirka Admin",
+    "Type": "Shark",
+    "Known Units": "1/1"
+  },
+  {
+    "Skin Name": "Radioactive",
+    "Skin Rarity": "Legendary",
+    "Base Value": "30,000,000",
+    "Obtainable By": "7.5k bayonet headshots",
+    "Type": "Bayonet",
+    "Known Units": "1/33"
+  },
+  {
+    "Skin Name": "Rainbow",
+    "Skin Rarity": "Epic",
+    "Base Value": "5,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/36,320"
+  },
+  {
+    "Skin Name": "Rampage",
+    "Skin Rarity": "Mythical",
+    "Base Value": "450,000,000",
+    "Obtainable By": "25k M60 Kills",
+    "Type": "M60",
+    "Known Units": "1/12"
+  },
+  {
+    "Skin Name": "Ramses",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,200,000",
+    "Obtainable By": "5k LAR Kills",
+    "Type": "LAR",
+    "Known Units": "1/188"
+  },
+  {
+    "Skin Name": "Ranked_S1 Bronze",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Ranked LB Rank 3",
+    "Type": "Bayonet",
+    "Known Units": "1/1"
+  },
+  {
+    "Skin Name": "Ranked_S1 Gold",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Ranked LB Rank 1",
+    "Type": "Bayonet",
+    "Known Units": "1/1"
+  },
+  {
+    "Skin Name": "Ranked_S1 Silver",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Ranked LB Rank 2",
+    "Type": "Bayonet",
+    "Known Units": "1/1"
+  },
+  {
+    "Skin Name": "Ranked_S1 Top10",
+    "Skin Rarity": "Mythical",
+    "Base Value": "450,000,000",
+    "Obtainable By": "Ranked LB Rank 4-10",
+    "Type": "Bayonet",
+    "Known Units": "1/7"
+  },
+  {
+    "Skin Name": "Ranked_S1 Top100",
+    "Skin Rarity": "Mythical",
+    "Base Value": "15,000,000",
+    "Obtainable By": "Ranked LB Rank 11-100",
+    "Type": "Bayonet",
+    "Known Units": "1/88"
+  },
+  {
+    "Skin Name": "Rar",
+    "Skin Rarity": "Legendary",
+    "Base Value": "175,000",
+    "Obtainable By": "35th Clan War",
+    "Type": "LAR",
+    "Known Units": "1/1,330"
+  },
+  {
+    "Skin Name": "Rasta",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "LAR",
+    "Known Units": "1/59,556"
+  },
+  {
+    "Skin Name": "Reaper",
+    "Skin Rarity": "Legendary",
+    "Base Value": "200,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/3,262"
+  },
+  {
+    "Skin Name": "Rebel",
+    "Skin Rarity": "Legendary",
+    "Base Value": "15,000,000",
+    "Obtainable By": "1k Bayonet Kills",
+    "Type": "Bayonet",
+    "Known Units": "1/70"
+  },
+  {
+    "Skin Name": "Red Reaper",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,500,000",
+    "Obtainable By": "9th Clan War",
+    "Type": "MAC-10",
+    "Known Units": "1/213"
+  },
+  {
+    "Skin Name": "Redline",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "LAR",
+    "Known Units": "1/113,637"
+  },
+  {
+    "Skin Name": "RedMoon",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/59,061"
+  },
+  {
+    "Skin Name": "Redwitch",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,800,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/207"
+  },
+  {
+    "Skin Name": "Reflections",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,500,000",
+    "Obtainable By": "2.5k Bayonet Kills",
+    "Type": "Bayonet",
+    "Known Units": "1/337"
+  },
+  {
+    "Skin Name": "Regal",
+    "Skin Rarity": "Mythical",
+    "Base Value": "90,000,000",
+    "Obtainable By": "10k Shark Kills",
+    "Type": "Shark",
+    "Known Units": "1/23"
+  },
+  {
+    "Skin Name": "Rein",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/25,585"
+  },
+  {
+    "Skin Name": "Reptile",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/108,264"
+  },
+  {
+    "Skin Name": "Republica",
+    "Skin Rarity": "Legendary",
+    "Base Value": "500,000",
+    "Obtainable By": "9th Clan War",
+    "Type": "M60",
+    "Known Units": "1/466"
+  },
+  {
+    "Skin Name": "Retro",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "All chests",
+    "Type": "Bayonet",
+    "Known Units": "1/926"
+  },
+  {
+    "Skin Name": "Retrowave",
+    "Skin Rarity": "Legendary",
+    "Base Value": "15,000,000",
+    "Obtainable By": "1st Clan War",
+    "Type": "MAC-10",
+    "Known Units": "1/314"
+  },
+  {
+    "Skin Name": "Revolver",
+    "Skin Rarity": "Default",
+    "Base Value": "0",
+    "Obtainable By": "Default Item",
+    "Type": "Revolver",
+    "Known Units": "1/237,743"
+  },
+  {
+    "Skin Name": "RGB",
+    "Skin Rarity": "Legendary",
+    "Base Value": "600,000",
+    "Obtainable By": "\"Void\" 850x 💎",
+    "Type": "Character",
+    "Known Units": "1/420"
+  },
+  {
+    "Skin Name": "RGB Black",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "\"Void\" 850x 💎",
+    "Type": "Character",
+    "Known Units": "1/420"
+  },
+  {
+    "Skin Name": "Ritual",
+    "Skin Rarity": "Mythical",
+    "Base Value": "200,000",
+    "Obtainable By": "1k Bayonet Kills",
+    "Type": "Bayonet",
+    "Known Units": "1/757"
+  },
+  {
+    "Skin Name": "Rogue",
+    "Skin Rarity": "Legendary",
+    "Base Value": "2,000,000",
+    "Obtainable By": "4th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/202"
+  },
+  {
+    "Skin Name": "Rose",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/199"
+  },
+  {
+    "Skin Name": "Rosed",
+    "Skin Rarity": "Mythical",
+    "Base Value": "12,000,000",
+    "Obtainable By": "3.5k VITA Kills",
+    "Type": "VITA",
+    "Known Units": "1/193"
+  },
+  {
+    "Skin Name": "Rosy",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,000,000,000",
+    "Obtainable By": "Reward for Bug Finder",
+    "Type": "VITA",
+    "Known Units": "1/1"
+  },
+  {
+    "Skin Name": "Royalchamp",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/270"
+  },
+  {
+    "Skin Name": "Royalty",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/52,728"
+  },
+  {
+    "Skin Name": "Rub1x",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "All chests",
+    "Type": "MAC-10",
+    "Known Units": "1/287"
+  },
+  {
+    "Skin Name": "Rubies",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/357"
+  },
+  {
+    "Skin Name": "Ruby",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/192,331"
+  },
+  {
+    "Skin Name": "Rusty",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "LAR",
+    "Known Units": "1/58,541"
+  },
+  {
+    "Skin Name": "Ruth",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "M60",
+    "Known Units": "1/108,708"
+  },
+  {
+    "Skin Name": "Sady",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/149,441"
+  },
+  {
+    "Skin Name": "Sakura",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/38,251"
+  },
+  {
+    "Skin Name": "Saliman",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "LAR",
+    "Known Units": "1/105,131"
+  },
+  {
+    "Skin Name": "Sam",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "All chests",
+    "Type": "VITA",
+    "Known Units": "1/11,250"
+  },
+  {
+    "Skin Name": "Samurai",
+    "Skin Rarity": "Epic",
+    "Base Value": "375,000,000",
+    "Obtainable By": "80x 💎",
+    "Type": "VITA",
+    "Known Units": "1/50"
+  },
+  {
+    "Skin Name": "Sandwich",
+    "Skin Rarity": "Mythical",
+    "Base Value": "250,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/718"
+  },
+  {
+    "Skin Name": "Santa",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "All chests",
+    "Type": "VITA",
+    "Known Units": "1/11,084"
+  },
+  {
+    "Skin Name": "Santa Claus",
+    "Skin Rarity": "Legendary",
+    "Base Value": "9,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/175"
+  },
+  {
+    "Skin Name": "Saurus",
+    "Skin Rarity": "Mythical",
+    "Base Value": "750,000,000",
+    "Obtainable By": "15k Bayonet Kills",
+    "Type": "Bayonet",
+    "Known Units": "1/20"
+  },
+  {
+    "Skin Name": "Savage",
+    "Skin Rarity": "Legendary",
+    "Base Value": "1,200,000",
+    "Obtainable By": "12th Clan War",
+    "Type": "MAC-10",
+    "Known Units": "1/260"
+  },
+  {
+    "Skin Name": "Scale",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/108,104"
+  },
+  {
+    "Skin Name": "Scalped",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Gift for Skywalk",
+    "Type": "Tomahawk",
+    "Known Units": "1/1"
+  },
+  {
+    "Skin Name": "SCAR",
+    "Skin Rarity": "Default",
+    "Base Value": "0",
+    "Obtainable By": "Default Item",
+    "Type": "SCAR",
+    "Known Units": "1/35,331"
+  },
+  {
+    "Skin Name": "Scarey",
+    "Skin Rarity": "Epic",
+    "Base Value": "750,000",
+    "Obtainable By": "30th Clan War",
+    "Type": "SCAR",
+    "Known Units": "1/641"
+  },
+  {
+    "Skin Name": "Scarlet",
+    "Skin Rarity": "Legendary",
+    "Base Value": "3,000,000",
+    "Obtainable By": "7th Clan War",
+    "Type": "SCAR",
+    "Known Units": "1/456"
+  },
+  {
+    "Skin Name": "Scary Monster",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Gift for CarrySheriff",
+    "Type": "Character",
+    "Known Units": "1/1"
+  },
+  {
+    "Skin Name": "Scarygf",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/303,845"
+  },
+  {
+    "Skin Name": "Schaedel",
+    "Skin Rarity": "Mythical",
+    "Base Value": "450,000",
+    "Obtainable By": "13th Clan War",
+    "Type": "MAC-10",
+    "Known Units": "1/2,437"
+  },
+  {
+    "Skin Name": "Sensei",
+    "Skin Rarity": "Legendary",
+    "Base Value": "450,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/41"
+  },
+  {
+    "Skin Name": "Shard",
+    "Skin Rarity": "Legendary",
+    "Base Value": "500,000",
+    "Obtainable By": "10th Clan War",
+    "Type": "Bayonet",
+    "Known Units": "1/2,045"
+  },
+  {
+    "Skin Name": "Shark",
+    "Skin Rarity": "Default",
+    "Base Value": "0",
+    "Obtainable By": "Default Item",
+    "Type": "Shark",
+    "Known Units": "1/270,133"
+  },
+  {
+    "Skin Name": "Shiny",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/66,028"
+  },
+  {
+    "Skin Name": "Shiver",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,300,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/195"
+  },
+  {
+    "Skin Name": "Shroud",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/1,404"
+  },
+  {
+    "Skin Name": "Silicon",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "",
+    "Type": "Character",
+    "Known Units": "1/69,777"
+  },
+  {
+    "Skin Name": "Simplicity",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "LAR",
+    "Known Units": "1/60,400"
+  },
+  {
+    "Skin Name": "Sinister",
+    "Skin Rarity": "Mythical",
+    "Base Value": "8,500,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/302"
+  },
+  {
+    "Skin Name": "Skel",
+    "Skin Rarity": "Epic",
+    "Base Value": "25,000,000",
+    "Obtainable By": "90x 💎",
+    "Type": "Character",
+    "Known Units": "1/222"
+  },
+  {
+    "Skin Name": "Skeletain",
+    "Skin Rarity": "Mythical",
+    "Base Value": "200,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/510"
+  },
+  {
+    "Skin Name": "Sketch",
+    "Skin Rarity": "Legendary",
+    "Base Value": "450,000,000",
+    "Obtainable By": "2000 KLO & 60x 💎",
+    "Type": "Character",
+    "Known Units": "1/18"
+  },
+  {
+    "Skin Name": "Skulduggery",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,500,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/263"
+  },
+  {
+    "Skin Name": "Sky",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "AR-9",
+    "Known Units": "1/50,024"
+  },
+  {
+    "Skin Name": "Skyboy",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/144,473"
+  },
+  {
+    "Skin Name": "Slasher",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "6,000,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/52"
+  },
+  {
+    "Skin Name": "Slayer",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "20th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/559"
+  },
+  {
+    "Skin Name": "Sleep",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "MAC-10",
+    "Known Units": "1/109,782"
+  },
+  {
+    "Skin Name": "Sleepy",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "13th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/612"
+  },
+  {
+    "Skin Name": "Slime",
+    "Skin Rarity": "Mythical",
+    "Base Value": "450,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/663"
+  },
+  {
+    "Skin Name": "Smile",
+    "Skin Rarity": "Mythical",
+    "Base Value": "300,000",
+    "Obtainable By": "90x 💎",
+    "Type": "VITA",
+    "Known Units": "1/685"
+  },
+  {
+    "Skin Name": "Smoked",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/55,198"
+  },
+  {
+    "Skin Name": "Snowman",
+    "Skin Rarity": "Legendary",
+    "Base Value": "15,000",
+    "Obtainable By": "Cold Pack",
+    "Type": "Character",
+    "Known Units": "1/13,988"
+  },
+  {
+    "Skin Name": "Snows",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,500,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/149"
+  },
+  {
+    "Skin Name": "Snowy",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/24,954"
+  },
+  {
+    "Skin Name": "Soak",
+    "Skin Rarity": "Mythical",
+    "Base Value": "400,000,000",
+    "Obtainable By": "10k Revolver Kills",
+    "Type": "Revolver",
+    "Known Units": "1/22"
+  },
+  {
+    "Skin Name": "Solar",
+    "Skin Rarity": "Legendary",
+    "Base Value": "300,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Shark",
+    "Known Units": "1/1,063"
+  },
+  {
+    "Skin Name": "Soldiers",
+    "Skin Rarity": "Common",
+    "Base Value": "500",
+    "Obtainable By": "Shop",
+    "Type": "Card",
+    "Known Units": "1/61,820"
+  },
+  {
+    "Skin Name": "Spectacular",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "AR-9",
+    "Known Units": "1/55,960"
+  },
+  {
+    "Skin Name": "Spectrum",
+    "Skin Rarity": "Mythical",
+    "Base Value": "400,000",
+    "Obtainable By": "90x 💎",
+    "Type": "MAC-10",
+    "Known Units": "1/306"
+  },
+  {
+    "Skin Name": "Spice",
+    "Skin Rarity": "Mythical",
+    "Base Value": "35,000,000",
+    "Obtainable By": "Admin Drop (15 hrs)",
+    "Type": "Character",
+    "Known Units": "1/0"
+  },
+  {
+    "Skin Name": "Spicy",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/28,631"
+  },
+  {
+    "Skin Name": "Spilled",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "AR-9",
+    "Known Units": "1/51,298"
+  },
+  {
+    "Skin Name": "Splash",
+    "Skin Rarity": "Mythical",
+    "Base Value": "12,000,000",
+    "Obtainable By": "2.5k Bayonet Kills",
+    "Type": "Bayonet",
+    "Known Units": "1/62"
+  },
+  {
+    "Skin Name": "Splush",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,350,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/197"
+  },
+  {
+    "Skin Name": "Spooder",
+    "Skin Rarity": "Mythical",
+    "Base Value": "120,000",
+    "Obtainable By": "37th Clan War",
+    "Type": "Shark",
+    "Known Units": "1/2,546"
+  },
+  {
+    "Skin Name": "Spooky",
+    "Skin Rarity": "Mythical",
+    "Base Value": "800,000",
+    "Obtainable By": "13th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/257"
+  },
+  {
+    "Skin Name": "Spoooky",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "VITA",
+    "Known Units": "1/98"
+  },
+  {
+    "Skin Name": "Spotted",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/108,795"
+  },
+  {
+    "Skin Name": "Sprig",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/195"
+  },
+  {
+    "Skin Name": "Spring",
+    "Skin Rarity": "Mythical",
+    "Base Value": "5,000,000",
+    "Obtainable By": "1k Bayonet Kills",
+    "Type": "Bayonet",
+    "Known Units": "1/241"
+  },
+  {
+    "Skin Name": "Sprout",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/230"
+  },
+  {
+    "Skin Name": "Starlinked",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/52,492"
+  },
+  {
+    "Skin Name": "Starship",
+    "Skin Rarity": "Mythical",
+    "Base Value": "700,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/258"
+  },
+  {
+    "Skin Name": "Starstruck",
+    "Skin Rarity": "Mythical",
+    "Base Value": "155,000,000",
+    "Obtainable By": "7.5k Shark Headshots",
+    "Type": "Shark",
+    "Known Units": "1/19"
+  },
+  {
+    "Skin Name": "Steely",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "LAR",
+    "Known Units": "1/58,016"
+  },
+  {
+    "Skin Name": "Stitches",
+    "Skin Rarity": "Mythical",
+    "Base Value": "400,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/463"
+  },
+  {
+    "Skin Name": "Streaks",
+    "Skin Rarity": "Mythical",
+    "Base Value": "700,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/177"
+  },
+  {
+    "Skin Name": "Striped",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "MAC-10",
+    "Known Units": "1/57,639"
+  },
+  {
+    "Skin Name": "Stripes",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/28,556"
+  },
+  {
+    "Skin Name": "Strips",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "MAC-10",
+    "Known Units": "1/58,814"
+  },
+  {
+    "Skin Name": "Sulphur",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "",
+    "Type": "Character",
+    "Known Units": "1/63,711"
+  },
+  {
+    "Skin Name": "Summer",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "LAR",
+    "Known Units": "1/104,278"
+  },
+  {
+    "Skin Name": "Sunbeam",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/170"
+  },
+  {
+    "Skin Name": "Sunday",
+    "Skin Rarity": "Mythical",
+    "Base Value": "6,500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/96"
+  },
+  {
+    "Skin Name": "Sunflower",
+    "Skin Rarity": "Legendary",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Gift for CarrySheriff",
+    "Type": "Shark",
+    "Known Units": "1/1"
+  },
+  {
+    "Skin Name": "Sunset",
+    "Skin Rarity": "Legendary",
+    "Base Value": "4,500,000",
+    "Obtainable By": "5th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/216"
+  },
+  {
+    "Skin Name": "Sunshine",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/162"
+  },
+  {
+    "Skin Name": "Superjames",
+    "Skin Rarity": "Mythical",
+    "Base Value": "150,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/506"
+  },
+  {
+    "Skin Name": "Supermind",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "LAR",
+    "Known Units": "1/109,158"
+  },
+  {
+    "Skin Name": "Supermother",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,500,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/230"
+  },
+  {
+    "Skin Name": "Swamp",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Weatie",
+    "Known Units": "1/58,720"
+  },
+  {
+    "Skin Name": "Sweater",
+    "Skin Rarity": "Legendary",
+    "Base Value": "30,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "VITA",
+    "Known Units": "1/64"
+  },
+  {
+    "Skin Name": "Swirl",
+    "Skin Rarity": "Epic",
+    "Base Value": "10,000",
+    "Obtainable By": "31st Clan War",
+    "Type": "Revolver",
+    "Known Units": "1/3,873"
+  },
+  {
+    "Skin Name": "Tag",
+    "Skin Rarity": "Mythical",
+    "Base Value": "7,000,000",
+    "Obtainable By": "500 KLO & 150x 💎",
+    "Type": "MAC-10",
+    "Known Units": "1/59"
+  },
+  {
+    "Skin Name": "Tagged",
+    "Skin Rarity": "Mythical",
+    "Base Value": "20,000,000",
+    "Obtainable By": "5k Revolver Kills",
+    "Type": "Revolver",
+    "Known Units": "1/36"
+  },
+  {
+    "Skin Name": "Tank",
+    "Skin Rarity": "Legendary",
+    "Base Value": "500,000",
+    "Obtainable By": "6th Clan War",
+    "Type": "M60",
+    "Known Units": "1/406"
+  },
+  {
+    "Skin Name": "Taurus",
+    "Skin Rarity": "Legendary",
+    "Base Value": "850,000",
+    "Obtainable By": "19th Clan War",
+    "Type": "Shark",
+    "Known Units": "1/675"
+  },
+  {
+    "Skin Name": "Technette",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,500,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/186"
+  },
+  {
+    "Skin Name": "Techno",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character",
+    "Known Units": "1/206"
+  },
+  {
+    "Skin Name": "Teddy",
+    "Skin Rarity": "Legendary",
+    "Base Value": "500,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/1,252"
+  },
+  {
+    "Skin Name": "Teflon",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "All chests",
+    "Type": "Weatie",
+    "Known Units": "1/10,810"
+  },
+  {
+    "Skin Name": "Terminator",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "All chests",
+    "Type": "VITA",
+    "Known Units": "1/11,442"
+  },
+  {
+    "Skin Name": "Thalia",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/147,745"
+  },
+  {
+    "Skin Name": "Thief",
+    "Skin Rarity": "Legendary",
+    "Base Value": "300,000",
+    "Obtainable By": "14th Clan War",
+    "Type": "VITA",
+    "Known Units": "1/2,396"
+  },
+  {
+    "Skin Name": "Thriller",
+    "Skin Rarity": "Mythical",
+    "Base Value": "75,000",
+    "Obtainable By": "Play 15 min of kirka",
+    "Type": "Character",
+    "Known Units": "1/0"
+  },
+  {
+    "Skin Name": "Tide",
+    "Skin Rarity": "Legendary",
+    "Base Value": "3,000,000",
+    "Obtainable By": "3rd Clan War",
+    "Type": "SCAR",
+    "Known Units": "1/1,408"
+  },
+  {
+    "Skin Name": "Tingey",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "MAC-10",
+    "Known Units": "1/58,594"
+  },
+  {
+    "Skin Name": "Tomahawk",
+    "Skin Rarity": "Default",
+    "Base Value": "0",
+    "Obtainable By": "Default Item",
+    "Type": "Tomahawk",
+    "Known Units": "1/3,927"
+  },
+  {
+    "Skin Name": "Tommy",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/135,222"
+  },
+  {
+    "Skin Name": "Toxic",
+    "Skin Rarity": "Epic",
+    "Base Value": "325,000,000",
+    "Obtainable By": "80x 💎",
+    "Type": "Weatie",
+    "Known Units": "1/23"
+  },
+  {
+    "Skin Name": "Toy",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "All chests",
+    "Type": "MAC-10",
+    "Known Units": "1/11,247"
+  },
+  {
+    "Skin Name": "Tradition",
+    "Skin Rarity": "Legendary",
+    "Base Value": "2,200,000",
+    "Obtainable By": "8th Clan War",
+    "Type": "Bayonet",
+    "Known Units": "1/223"
+  },
+  {
+    "Skin Name": "Treat",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/10,560"
+  },
+  {
+    "Skin Name": "Trippy",
+    "Skin Rarity": "Mythical",
+    "Base Value": "700,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/325"
+  },
+  {
+    "Skin Name": "Trolled",
+    "Skin Rarity": "Legendary",
+    "Base Value": "20,000",
+    "Obtainable By": "All chests",
+    "Type": "VITA",
+    "Known Units": "1/11,805"
+  },
+  {
+    "Skin Name": "Try",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Weatie",
+    "Known Units": "1/106,652"
+  },
+  {
+    "Skin Name": "TTV",
+    "Skin Rarity": "Mythical",
+    "Base Value": "550,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/236"
+  },
+  {
+    "Skin Name": "Turquoise",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "M60",
+    "Known Units": "1/61,055"
+  },
+  {
+    "Skin Name": "Turtle",
+    "Skin Rarity": "Mythical",
+    "Base Value": "100,000",
+    "Obtainable By": "21st-29th Clan War",
+    "Type": "Bayonet",
+    "Known Units": "1/14,505"
+  },
+  {
+    "Skin Name": "Twilight",
+    "Skin Rarity": "Mythical",
+    "Base Value": "450,000",
+    "Obtainable By": "150 KLO & 150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/423"
+  },
+  {
+    "Skin Name": "Twitch",
+    "Skin Rarity": "Mythical",
+    "Base Value": "800,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/0"
+  },
+  {
+    "Skin Name": "Tyrant",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/98"
+  },
+  {
+    "Skin Name": "Ukiyo",
+    "Skin Rarity": "Mythical",
+    "Base Value": "35,000,000",
+    "Obtainable By": "20k Vita Headshots",
+    "Type": "VITA",
+    "Known Units": "1/59"
+  },
+  {
+    "Skin Name": "Ultraviolet",
+    "Skin Rarity": "Mythical",
+    "Base Value": "145,000,000",
+    "Obtainable By": "25k scar kills",
+    "Type": "SCAR",
+    "Known Units": "1/38"
+  },
+  {
+    "Skin Name": "Undead",
+    "Skin Rarity": "Mythical",
+    "Base Value": "400,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/549"
+  },
+  {
+    "Skin Name": "Underwater",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "AR-9",
+    "Known Units": "1/171"
+  },
+  {
+    "Skin Name": "Universe",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/36,212"
+  },
+  {
+    "Skin Name": "Uranium",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,500,000",
+    "Obtainable By": "Periodic Pack",
+    "Type": "Character",
+    "Known Units": "1/88"
+  },
+  {
+    "Skin Name": "V0id",
+    "Skin Rarity": "Mythical",
+    "Base Value": "4,500,000",
+    "Obtainable By": "1500 KLO & 150x 💎",
+    "Type": "Character",
+    "Known Units": "1/240"
+  },
+  {
+    "Skin Name": "Valerie",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/185,202"
+  },
+  {
+    "Skin Name": "Vampire",
+    "Skin Rarity": "Legendary",
+    "Base Value": "120,000",
+    "Obtainable By": "30th Clan War",
+    "Type": "Bayonet",
+    "Known Units": "1/2,239"
+  },
+  {
+    "Skin Name": "Vapor",
+    "Skin Rarity": "Legendary",
+    "Base Value": "2,000,000",
+    "Obtainable By": "19th Clan War",
+    "Type": "Bayonet",
+    "Known Units": "1/283"
+  },
+  {
+    "Skin Name": "Veiled",
+    "Skin Rarity": "Legendary",
+    "Base Value": "200,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/1,323"
+  },
+  {
+    "Skin Name": "Vibes",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,200,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/91"
+  },
+  {
+    "Skin Name": "Viking",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/100,079"
+  },
+  {
+    "Skin Name": "Vine",
+    "Skin Rarity": "Legendary",
+    "Base Value": "175,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/812"
+  },
+  {
+    "Skin Name": "Vintage",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,700,000",
+    "Obtainable By": "5k mid-air kills",
+    "Type": "VITA",
+    "Known Units": "1/227"
+  },
+  {
+    "Skin Name": "Violet",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Weatie",
+    "Known Units": "1/60,019"
+  },
+  {
+    "Skin Name": "Vionix",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,300,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/181"
+  },
+  {
+    "Skin Name": "VITA",
+    "Skin Rarity": "Default",
+    "Base Value": "0",
+    "Obtainable By": "Default Item",
+    "Type": "VITA",
+    "Known Units": "1/270,133"
+  },
+  {
+    "Skin Name": "Vivid",
+    "Skin Rarity": "Legendary",
+    "Base Value": "35,000",
+    "Obtainable By": "All chests",
+    "Type": "VITA",
+    "Known Units": "1/12,147"
+  },
+  {
+    "Skin Name": "Vocaloid",
+    "Skin Rarity": "Legendary",
+    "Base Value": "500,000",
+    "Obtainable By": "35th Clan War",
+    "Type": "SCAR",
+    "Known Units": "1/557"
+  },
+  {
+    "Skin Name": "Void AR-9",
+    "Skin Rarity": "Mythical",
+    "Base Value": "300,000",
+    "Obtainable By": "\"Void\" 850x 💎",
+    "Type": "AR-9",
+    "Known Units": "1/412"
+  },
+  {
+    "Skin Name": "Void Bayonet",
+    "Skin Rarity": "Mythical",
+    "Base Value": "450,000",
+    "Obtainable By": "\"Void\" 850x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/416"
+  },
+  {
+    "Skin Name": "Void LAR",
+    "Skin Rarity": "Mythical",
+    "Base Value": "350,000",
+    "Obtainable By": "\"Void\" 850x 💎",
+    "Type": "LAR",
+    "Known Units": "1/411"
+  },
+  {
+    "Skin Name": "Void M60",
+    "Skin Rarity": "Mythical",
+    "Base Value": "250,000",
+    "Obtainable By": "\"Void\" 850x 💎",
+    "Type": "M60",
+    "Known Units": "1/403"
+  },
+  {
+    "Skin Name": "Void MAC-10",
+    "Skin Rarity": "Mythical",
+    "Base Value": "200,000",
+    "Obtainable By": "\"Void\" 850x 💎",
+    "Type": "MAC-10",
+    "Known Units": "1/414"
+  },
+  {
+    "Skin Name": "Void Revolver",
+    "Skin Rarity": "Mythical",
+    "Base Value": "200,000",
+    "Obtainable By": "\"Void\" 850x 💎",
+    "Type": "Revolver",
+    "Known Units": "1/405"
+  },
+  {
+    "Skin Name": "Void SCAR",
+    "Skin Rarity": "Mythical",
+    "Base Value": "450,000",
+    "Obtainable By": "\"Void\" 850x 💎",
+    "Type": "SCAR",
+    "Known Units": "1/415"
+  },
+  {
+    "Skin Name": "Void Shark",
+    "Skin Rarity": "Mythical",
+    "Base Value": "450,000",
+    "Obtainable By": "\"Void\" 850x 💎",
+    "Type": "Shark",
+    "Known Units": "1/416"
+  },
+  {
+    "Skin Name": "Void Tomahawk",
+    "Skin Rarity": "Mythical",
+    "Base Value": "550,000",
+    "Obtainable By": "\"Void\" 850x 💎",
+    "Type": "Tomahawk",
+    "Known Units": "1/420"
+  },
+  {
+    "Skin Name": "Void VITA",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "\"Void\" 850x 💎",
+    "Type": "VITA",
+    "Known Units": "1/418"
+  },
+  {
+    "Skin Name": "Void Weatie",
+    "Skin Rarity": "Mythical",
+    "Base Value": "150,000",
+    "Obtainable By": "\"Void\" 850x 💎",
+    "Type": "Weatie",
+    "Known Units": "1/404"
+  },
+  {
+    "Skin Name": "Volcaic",
+    "Skin Rarity": "Legendary",
+    "Base Value": "35,000",
+    "Obtainable By": "35th Clan War",
+    "Type": "Revolver",
+    "Known Units": "1/4,432"
+  },
+  {
+    "Skin Name": "Volcano",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "SCAR",
+    "Known Units": "1/66,529"
+  },
+  {
+    "Skin Name": "Vortex",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/216"
+  },
+  {
+    "Skin Name": "Wacky",
+    "Skin Rarity": "Legendary",
+    "Base Value": "5,000",
+    "Obtainable By": "All chests",
+    "Type": "Weatie",
+    "Known Units": "1/10,768"
+  },
+  {
+    "Skin Name": "Waterfire",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/38,687"
+  },
+  {
+    "Skin Name": "Watermelon",
+    "Skin Rarity": "Legendary",
+    "Base Value": "125,000",
+    "Obtainable By": "15th Clan War",
+    "Type": "Revolver",
+    "Known Units": "1/2,235"
+  },
+  {
+    "Skin Name": "Watery",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "VITA",
+    "Known Units": "1/57,059"
+  },
+  {
+    "Skin Name": "Wave Dot",
+    "Skin Rarity": "Mythical",
+    "Base Value": "160,000,000",
+    "Obtainable By": "10k Revolver Kills",
+    "Type": "Revolver",
+    "Known Units": "1/37"
+  },
+  {
+    "Skin Name": "Waveform",
+    "Skin Rarity": "Epic",
+    "Base Value": "110,000,000",
+    "Obtainable By": "5k Shark Kills",
+    "Type": "Shark",
+    "Known Units": "1/31"
+  },
+  {
+    "Skin Name": "Waves",
+    "Skin Rarity": "Legendary",
+    "Base Value": "250,000",
+    "Obtainable By": "17 & 18th Clan War",
+    "Type": "SCAR",
+    "Known Units": "1/1,219"
+  },
+  {
+    "Skin Name": "Weatie",
+    "Skin Rarity": "Default",
+    "Base Value": "0",
+    "Obtainable By": "Default Item",
+    "Type": "Weatie",
+    "Known Units": "1/270,133"
+  },
+  {
+    "Skin Name": "Whiteout",
+    "Skin Rarity": "Legendary",
+    "Base Value": "10,000",
+    "Obtainable By": "All chests",
+    "Type": "Revolver",
+    "Known Units": "1/10,656"
+  },
+  {
+    "Skin Name": "Widow",
+    "Skin Rarity": "Epic",
+    "Base Value": "18,000,000",
+    "Obtainable By": "90x 💎",
+    "Type": "Shark",
+    "Known Units": "1/112"
+  },
+  {
+    "Skin Name": "Winter",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Weatie",
+    "Known Units": "1/59,362"
+  },
+  {
+    "Skin Name": "Wity",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/132,500"
+  },
+  {
+    "Skin Name": "Wood",
+    "Skin Rarity": "Common",
+    "Base Value": "250",
+    "Obtainable By": "Shop",
+    "Type": "Chest",
+    "Known Units": "1/2,849,352"
+  },
+  {
+    "Skin Name": "Wraith",
+    "Skin Rarity": "Mythical",
+    "Base Value": "750,000,000",
+    "Obtainable By": "2000x💎",
+    "Type": "Character",
+    "Known Units": "1/3"
+  },
+  {
+    "Skin Name": "Wrapping",
+    "Skin Rarity": "Legendary",
+    "Base Value": "7,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/113"
+  },
+  {
+    "Skin Name": "Write",
+    "Skin Rarity": "Legendary",
+    "Base Value": "500,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character",
+    "Known Units": "1/682"
+  },
+  {
+    "Skin Name": "Xed",
+    "Skin Rarity": "Mythical",
+    "Base Value": "6,000,000",
+    "Obtainable By": "750 played games",
+    "Type": "Character",
+    "Known Units": "1/0"
+  },
+  {
+    "Skin Name": "Xenon",
+    "Skin Rarity": "Legendary",
+    "Base Value": "15,000",
+    "Obtainable By": "Periodic Pack",
+    "Type": "Character",
+    "Known Units": "1/6,552"
+  },
+  {
+    "Skin Name": "Xray James",
+    "Skin Rarity": "Mythical",
+    "Base Value": "150,000",
+    "Obtainable By": "Halloween Chest",
+    "Type": "Character",
+    "Known Units": "1/514"
+  },
+  {
+    "Skin Name": "Xx",
+    "Skin Rarity": "Mythical",
+    "Base Value": "250,000",
+    "Obtainable By": "21st-29th Clan War",
+    "Type": "Character",
+    "Known Units": "1/1,936"
+  },
+  {
+    "Skin Name": "Yellow Camo",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Weatie",
+    "Known Units": "1/57,487"
+  },
+  {
+    "Skin Name": "Yule",
+    "Skin Rarity": "Legendary",
+    "Base Value": "25,500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Shark",
+    "Known Units": "1/51"
+  },
+  {
+    "Skin Name": "Yule Cat",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character",
+    "Known Units": "1/210"
+  },
+  {
+    "Skin Name": "Zebra",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "M60",
+    "Known Units": "1/57,033"
+  },
+  {
+    "Skin Name": "Zeke",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Character",
+    "Known Units": "1/33,854"
+  },
+  {
+    "Skin Name": "Zelda",
+    "Skin Rarity": "Common",
+    "Base Value": "100",
+    "Obtainable By": "All chests / Packs",
+    "Type": "AR-9",
+    "Known Units": "1/48,499"
+  },
+  {
+    "Skin Name": "Zen",
+    "Skin Rarity": "Legendary",
+    "Base Value": "175,000,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet",
+    "Known Units": "1/51"
+  },
+  {
+    "Skin Name": "ZG-Mario",
+    "Skin Rarity": "Legendary",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Reward for first level 101",
+    "Type": "SCAR",
+    "Known Units": "1/1"
+  },
+  {
+    "Skin Name": "Zzzz",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver",
+    "Known Units": "1/103,403"
+  },
+  {
+    "Skin Name": "Mangle",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Zombie Texture 1/1",
+    "Type": "Character",
+    "Known Units": "1/1"
+  },
+  {
+    "Skin Name": "Pie",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Corny",
+    "Skin Rarity": "Legendary",
+    "Base Value": "250,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Apple",
+    "Skin Rarity": "Legendary",
+    "Base Value": "200,000",
+    "Obtainable By": "60x 💎",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Gloopies",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x 💎",
+    "Type": "Lar"
+  },
+  {
+    "Skin Name": "Qod",
+    "Skin Rarity": "Mythical",
+    "Base Value": "50,000,000",
+    "Obtainable By": "850x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Chilly",
+    "Skin Rarity": "Mythical",
+    "Base Value": "20,000,000",
+    "Obtainable By": "850x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Anon",
+    "Skin Rarity": "Mythical",
+    "Base Value": "20,000,000",
+    "Obtainable By": "850x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Stargaze",
+    "Skin Rarity": "Mythical",
+    "Base Value": "180,000,000",
+    "Obtainable By": "1500x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Orion",
+    "Skin Rarity": "Mythical",
+    "Base Value": "180,000,000",
+    "Obtainable By": "1500x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Yuki",
+    "Skin Rarity": "Mythical",
+    "Base Value": "50,000,000",
+    "Obtainable By": "850x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Lord",
+    "Skin Rarity": "Mythical",
+    "Base Value": "25,000,000",
+    "Obtainable By": "850x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Jenni",
+    "Skin Rarity": "Mythical",
+    "Base Value": "45,000,000",
+    "Obtainable By": "850x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Chunkbug",
+    "Skin Rarity": "Mythical",
+    "Base Value": "30,000,000",
+    "Obtainable By": "850x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Illusionist",
+    "Skin Rarity": "Mythical",
+    "Base Value": "110,000,000",
+    "Obtainable By": "2000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Pinata",
+    "Skin Rarity": "Mythical",
+    "Base Value": "280,000,000",
+    "Obtainable By": "4000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Rainbows",
+    "Skin Rarity": "Mythical",
+    "Base Value": "150,000,000",
+    "Obtainable By": "2000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Gloop",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "25,000,000",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Shark"
+  },
+  {
+    "Skin Name": "Sugar James",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "100,000,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Ripped Santa",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "120,000,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Gifted",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "300,000,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Pooh",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "85,000,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Elves",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "430,000,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Marilwyd",
+    "Skin Rarity": "Mythical",
+    "Base Value": "100,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Wintermint",
+    "Skin Rarity": "Mythical",
+    "Base Value": "50,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Gingy",
+    "Skin Rarity": "Mythical",
+    "Base Value": "125,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Decor",
+    "Skin Rarity": "Mythical",
+    "Base Value": "100,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Eve",
+    "Skin Rarity": "Mythical",
+    "Base Value": "200,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Pajama unc",
+    "Skin Rarity": "Mythical",
+    "Base Value": "100,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Dradeer",
+    "Skin Rarity": "Legendary",
+    "Base Value": "5,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Samta",
+    "Skin Rarity": "Legendary",
+    "Base Value": "5,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Aron",
+    "Skin Rarity": "Legendary",
+    "Base Value": "5,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Santa Fox",
+    "Skin Rarity": "Legendary",
+    "Base Value": "5,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Bingle",
+    "Skin Rarity": "Legendary",
+    "Base Value": "5,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Jovie",
+    "Skin Rarity": "Legendary",
+    "Base Value": "5,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Cwn",
+    "Skin Rarity": "Legendary",
+    "Base Value": "5,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Lime",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Finx",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Gifto",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Xmas night",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Jolly James",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Pajama",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Panta",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Gryla",
+    "Skin Rarity": "Epic",
+    "Base Value": "1,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Ofpast",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Ofpresent",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Kristine",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Fih",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Chill",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Hans trapp",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Cozy",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Jerm",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Bob",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Nicolas",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Kevin",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Menthnol",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Jana",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Cernunnos",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Clownicidal",
+    "Skin Rarity": "Mythical",
+    "Base Value": "25,000,000",
+    "Obtainable By": "Admin Drop",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Black Santa",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "57,000,000",
+    "Obtainable By": "Christmas Chest",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Impostor",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,250,000,000",
+    "Obtainable By": "Zombie Texture 1/1",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Ranked_s2 Gold",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Ranked LB Rank 1",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Ranked_s2 Silver",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": " Ranked LB Rank 2",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Ranked_s2 Bronze",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Ranked LB Rank 3",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Ranked_s2 Top10",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Ranked LB Rank 4-10",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Ranked_s2 Top100",
+    "Skin Rarity": "Mythical",
+    "Base Value": "15,000,000",
+    "Obtainable By": "Ranked LB Rank 11-100",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "2026 Vita",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "150x💎",
+    "Type": "Vita"
+  },
+  {
+    "Skin Name": "2026 Bayonet",
+    "Skin Rarity": "Mythical",
+    "Base Value": "550,000",
+    "Obtainable By": "150x💎",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "2026 Shark",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "25,000,000",
+    "Obtainable By": "All Chests / Packs",
+    "Type": "Shark"
+  },
+  {
+    "Skin Name": "2026",
+    "Skin Rarity": "Mythical",
+    "Base Value": "450,000",
+    "Obtainable By": "100x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Dynasty",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "150x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Shank",
+    "Skin Rarity": "Mythical",
+    "Base Value": "250,000,000",
+    "Obtainable By": "850x💎",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Ghoul",
+    "Skin Rarity": "Mythical",
+    "Base Value": "11,000,000",
+    "Obtainable By": "500 Games Played",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Heavy",
+    "Skin Rarity": "Mythical",
+    "Base Value": "5,000,000",
+    "Obtainable By": "25000 LAR Kills",
+    "Type": "Lar"
+  },
+  {
+    "Skin Name": "Static",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,500,000",
+    "Obtainable By": "15000 Vita Headshots",
+    "Type": "Vita"
+  },
+  {
+    "Skin Name": "Flarefang",
+    "Skin Rarity": "Mythical",
+    "Base Value": "800,000",
+    "Obtainable By": "39th Clan War",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Shotdead",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000",
+    "Obtainable By": "39th Clan War",
+    "Type": "Vita"
+  },
+  {
+    "Skin Name": "Fever",
+    "Skin Rarity": "Mythical",
+    "Base Value": "250,000",
+    "Obtainable By": "39th Clan War",
+    "Type": "Scar"
+  },
+  {
+    "Skin Name": "Ice Breaker",
+    "Skin Rarity": "Mythical",
+    "Base Value": "900,000",
+    "Obtainable By": "40th Clan War",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Chromaflame",
+    "Skin Rarity": "Mythical",
+    "Base Value": "450,000",
+    "Obtainable By": "40th Clan War",
+    "Type": "Lar"
+  },
+  {
+    "Skin Name": "Distortion",
+    "Skin Rarity": "Mythical",
+    "Base Value": "175,000",
+    "Obtainable By": "40th Clan War",
+    "Type": "MAC-10"
+  },
+  {
+    "Skin Name": "Candle",
+    "Skin Rarity": "Mythical",
+    "Base Value": "40,000,000",
+    "Obtainable By": "1 Sub on Twitch",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Pibble",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Jingles",
+    "Skin Rarity": "Mythical",
+    "Base Value": "70,000,000",
+    "Obtainable By": "850x💎",
+    "Type": "Vita"
+  },
+  {
+    "Skin Name": "Jazzin",
+    "Skin Rarity": "Mythical",
+    "Base Value": "5,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Sculpture",
+    "Skin Rarity": "Mythical",
+    "Base Value": "150,000,000",
+    "Obtainable By": "850x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Moody",
+    "Skin Rarity": "Mythical",
+    "Base Value": "130,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Polka",
+    "Skin Rarity": "Mythical",
+    "Base Value": "20,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Pepe",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Stargirl",
+    "Skin Rarity": "Mythical",
+    "Base Value": "55,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Rider",
+    "Skin Rarity": "Mythical",
+    "Base Value": "25,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Lost",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "keith",
+    "Skin Rarity": "Mythical",
+    "Base Value": "30,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "dipolar",
+    "Skin Rarity": "Mythical",
+    "Base Value": "25,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Daunt",
+    "Skin Rarity": "Mythical",
+    "Base Value": "300,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Zigglezorp",
+    "Skin Rarity": "Mythical",
+    "Base Value": "275,000,000",
+    "Obtainable By": "2000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Spearmint",
+    "Skin Rarity": "Mythical",
+    "Base Value": "50,000",
+    "Obtainable By": "Play 15 min of kirka",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Darkift",
+    "Skin Rarity": "Mythical",
+    "Base Value": "50,000",
+    "Obtainable By": "Play 15 min of kirka",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Wiggleworp",
+    "Skin Rarity": "Paranormal",
+    "Base Value": "45,000,000",
+    "Obtainable By": "All Chests / Packs",
+    "Type": "Vita"
+  },
+  {
+    "Skin Name": "Gonzo",
+    "Skin Rarity": "Mythical",
+    "Base Value": "100,000,000",
+    "Obtainable By": "2000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Reindeer",
+    "Skin Rarity": "Legendary",
+    "Base Value": "200,000",
+    "Obtainable By": "60x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Pengu",
+    "Skin Rarity": "Mythical",
+    "Base Value": "900,000",
+    "Obtainable By": "250x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Magic",
+    "Skin Rarity": "Mythical",
+    "Base Value": "650,000",
+    "Obtainable By": "150x💎",
+    "Type": "Shark"
+  },
+  {
+    "Skin Name": "Eci",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "150x💎",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Wrap",
+    "Skin Rarity": "Legendary",
+    "Base Value": "225,000",
+    "Obtainable By": "150x💎",
+    "Type": "Vita"
+  },
+  {
+    "Skin Name": "Goat",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "3000 SRP & 150x 💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Warlord",
+    "Skin Rarity": "Mythical",
+    "Base Value": "10,500,000",
+    "Obtainable By": "1500 SRP & 150x 💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Immortal",
+    "Skin Rarity": "Mythical",
+    "Base Value": "250,000,000",
+    "Obtainable By": "2500 SRP & 150x 💎",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Wicked",
+    "Skin Rarity": "Mythical",
+    "Base Value": "70,000,000",
+    "Obtainable By": "2000 SRP & 150x 💎",
+    "Type": "Vita"
+  },
+  {
+    "Skin Name": "Bound",
+    "Skin Rarity": "Mythical",
+    "Base Value": "3,500,000",
+    "Obtainable By": "750 SRP & 150x 💎",
+    "Type": "Ar-9"
+  },
+  {
+    "Skin Name": "Shinji",
+    "Skin Rarity": "Mythical",
+    "Base Value": "50,000,000",
+    "Obtainable By": "1000 wins",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "R32",
+    "Skin Rarity": "Mythical",
+    "Base Value": "95,000,000",
+    "Obtainable By": "32k shark headshots",
+    "Type": "Shark"
+  },
+  {
+    "Skin Name": "Vibrant",
+    "Skin Rarity": "Mythical",
+    "Base Value": "200,000,000",
+    "Obtainable By": "5 million score",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Corrupt",
+    "Skin Rarity": "Mythical",
+    "Base Value": "4,500,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Gwen",
+    "Skin Rarity": "Mythical",
+    "Base Value": "5,500,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Frau",
+    "Skin Rarity": "Mythical",
+    "Base Value": "20,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Ranked_s3 gold",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Ranked LB Rank 1",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Ranked_s3 silver",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": " Ranked LB Rank 2",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Ranked_s3 bronze",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Ranked LB Rank 3",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Ranked_s3 top10",
+    "Skin Rarity": "Mythical",
+    "Base Value": "220,000,000",
+    "Obtainable By": "Ranked LB Rank 4-10",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Ranked_s3 top100",
+    "Skin Rarity": "Mythical",
+    "Base Value": "8,000,000",
+    "Obtainable By": "Ranked LB Rank 11-100",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Dragon Shark",
+    "Skin Rarity": "Mythical",
+    "Base Value": "650,000",
+    "Obtainable By": "41st Clan War",
+    "Type": "Shark"
+  },
+  {
+    "Skin Name": "Anarch",
+    "Skin Rarity": "Mythical",
+    "Base Value": "900,000",
+    "Obtainable By": "41st Clan War",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Ticketeer",
+    "Skin Rarity": "Mythical",
+    "Base Value": "230,000",
+    "Obtainable By": "41st Clan War",
+    "Type": "Scar"
+  },
+  {
+    "Skin Name": "Lustre",
+    "Skin Rarity": "Mythical",
+    "Base Value": "600,000",
+    "Obtainable By": "2,500 bayonet kills",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Mage",
+    "Skin Rarity": "Mythical",
+    "Base Value": "250,000,000",
+    "Obtainable By": "3,500,000 score",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Helendus",
+    "Skin Rarity": "Mythical",
+    "Base Value": "140,000,000",
+    "Obtainable By": "50,000 vita headshots",
+    "Type": "Vita"
+  },
+  {
+    "Skin Name": "Business Cat",
+    "Skin Rarity": "Mythical",
+    "Base Value": "70,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Bones",
+    "Skin Rarity": "Mythical",
+    "Base Value": "25,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Box",
+    "Skin Rarity": "Mythical",
+    "Base Value": "20,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Mushroom",
+    "Skin Rarity": "Mythical",
+    "Base Value": "120,000,000",
+    "Obtainable By": "2000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Fluorescent",
+    "Skin Rarity": "Mythical",
+    "Base Value": "696,969,696",
+    "Obtainable By": "Gift for Bloom",
+    "Type": "Vita"
+  },
+  {
+    "Skin Name": "Cozy James",
+    "Skin Rarity": "Mythical",
+    "Base Value": "30,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Lion",
+    "Skin Rarity": "Mythical",
+    "Base Value": "30,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Oni",
+    "Skin Rarity": "Mythical",
+    "Base Value": "0",
+    "Obtainable By": "Quicksold (Future Release)",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Singularity",
+    "Skin Rarity": "Mythical",
+    "Base Value": "300,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Darkweb",
+    "Skin Rarity": "Mythical",
+    "Base Value": "25,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Oblivion",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,500,000",
+    "Obtainable By": "42nd Clan War",
+    "Type": "Scar"
+  },
+  {
+    "Skin Name": "Moonlight",
+    "Skin Rarity": "Mythical",
+    "Base Value": "200,000",
+    "Obtainable By": "42nd Clan War",
+    "Type": "Mac-10"
+  },
+  {
+    "Skin Name": "Cv01",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,000,000",
+    "Obtainable By": "42nd Clan War",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Qod",
+    "Skin Rarity": "Mythical",
+    "Base Value": "110,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Dreamscape",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "50k Lar Kills",
+    "Type": "Lar"
+  },
+  {
+    "Skin Name": "Elysian",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "25k Shark Kills",
+    "Type": "Shark"
+  },
+  {
+    "Skin Name": "Vera",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "2000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Nokken",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Honeyboo",
+    "Skin Rarity": "Mythical",
+    "Base Value": "30,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Gold Coins",
+    "Skin Rarity": "Legendary",
+    "Base Value": "TBD",
+    "Obtainable By": " Watch 15 hours",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Saint Patrick",
+    "Skin Rarity": "Legendary",
+    "Base Value": "TBD",
+    "Obtainable By": "15 hours watching mods",
+    "Type": "Shark"
+  },
+  {
+    "Skin Name": "Target",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "1000 SRP & 150x 💎",
+    "Type": "Revolver"
+  },
+  {
+    "Skin Name": "Sizzle",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "1500 SRP & 150x 💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Chromium",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "2000 SRP & 150x 💎",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Silver Bullet",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": " 2500 SRP &150x 💎",
+    "Type": "Vita"
+  },
+  {
+    "Skin Name": "Marage",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "3000 SRP & 150x 💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Reed",
+    "Skin Rarity": "Legendary",
+    "Base Value": "TBD",
+    "Obtainable By": "60x 💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Panda",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "150x 💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Bamboo",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "150x 💎",
+    "Type": "Vita"
+  },
+  {
+    "Skin Name": "Punji",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "150x 💎",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Paypay",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Skillz",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Monday",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Gift for Ramen",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Luminescent",
+    "Skin Rarity": "Mythical",
+    "Base Value": "696,969,696",
+    "Obtainable By": "Ranked Skin Compensation For Bloom",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Duelist",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Gift for Kaz3",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Mikasa",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Caramel",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Christmas",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "Shop",
+    "Type": "Chest"
+  },
+  {
+    "Skin Name": "Slay",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  }
+]
