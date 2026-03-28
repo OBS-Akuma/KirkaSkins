@@ -1,2 +1,2 @@
-# KirkaSkins
-credits: Glitchy, xip
+# meow
+credits: Glitchy, xip, Akuma/Smudge/Smudgy
