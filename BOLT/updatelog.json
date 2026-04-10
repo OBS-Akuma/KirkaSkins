@@ -252,6 +252,13 @@
     "Type": "AR-9"
   },
   {
+    "Skin Name": "Arachne",
+    "Skin Rarity": "Mythical",
+    "Base Value": "2,000,000",
+    "Obtainable By": "43rd Clan War",
+    "Type": "Vita"
+  },
+  {
     "Skin Name": "Arc",
     "Skin Rarity": "Legendary",
     "Base Value": "375,000",
@@ -312,6 +319,13 @@
     "Skin Rarity": "Mythical",
     "Base Value": "20,000,000",
     "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Astatine",
+    "Skin Rarity": "Mythical",
+    "Base Value": "35,000,000",
+    "Obtainable By": "1000x💎",
     "Type": "Character"
   },
   {
@@ -413,6 +427,13 @@
     "Type": "Vita"
   },
   {
+    "Skin Name": "Bansee",
+    "Skin Rarity": "Mythical",
+    "Base Value": "7,000,000",
+    "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Vita"
+  },
+  {
     "Skin Name": "Basket",
     "Skin Rarity": "Mythical",
     "Base Value": "3,500,000",
@@ -473,6 +494,13 @@
     "Skin Rarity": "Rare",
     "Base Value": "250",
     "Obtainable By": "All chests / Packs",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Biker",
+    "Skin Rarity": "Mythical",
+    "Base Value": "35,000,000",
+    "Obtainable By": "1000x💎",
     "Type": "Character"
   },
   {
@@ -777,6 +805,13 @@
     "Type": "Weatie"
   },
   {
+    "Skin Name": "Bubblepop",
+    "Skin Rarity": "Mythical",
+    "Base Value": "150,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Bayonet"
+  },
+  {
     "Skin Name": "Bullseye",
     "Skin Rarity": "Mythical",
     "Base Value": "60,000,000",
@@ -814,7 +849,7 @@
   {
     "Skin Name": "Business Cat",
     "Skin Rarity": "Mythical",
-    "Base Value": "70,000,000",
+    "Base Value": "50,000,000",
     "Obtainable By": "1000x💎",
     "Type": "Character"
   },
@@ -917,6 +952,13 @@
     "Type": "Character"
   },
   {
+    "Skin Name": "Carrot Blaster",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "1000x💎",
+    "Type": "Revolver"
+  },
+  {
     "Skin Name": "Case Hardened",
     "Skin Rarity": "Rare",
     "Base Value": "250",
@@ -1008,6 +1050,13 @@
     "Type": "LAR"
   },
   {
+    "Skin Name": "Chick",
+    "Skin Rarity": "Mythical",
+    "Base Value": "80,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
     "Skin Name": "Chill",
     "Skin Rarity": "Rare",
     "Base Value": "250",
@@ -1073,7 +1122,7 @@
   {
     "Skin Name": "Chromium",
     "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
+    "Base Value": "33,000,000",
     "Obtainable By": "2000 SRP & 150x 💎",
     "Type": "Bayonet"
   },
@@ -1178,7 +1227,7 @@
   {
     "Skin Name": "Cookie",
     "Skin Rarity": "Mythical",
-    "Base Value": "1,500,000",
+    "Base Value": "2,000,000",
     "Obtainable By": "Watch 15 hours Kirka",
     "Type": "Character"
   },
@@ -1349,6 +1398,13 @@
     "Base Value": "250",
     "Obtainable By": "All chests / Packs",
     "Type": "AR-9"
+  },
+  {
+    "Skin Name": "CYB3R",
+    "Skin Rarity": "Mythical",
+    "Base Value": "350,000",
+    "Obtainable By": "43rd Clan War",
+    "Type": "Bayonet"
   },
   {
     "Skin Name": "Cyber",
@@ -1617,6 +1673,13 @@
     "Type": "Shark"
   },
   {
+    "Skin Name": "Dragonic",
+    "Skin Rarity": "Mythical",
+    "Base Value": "45,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
     "Skin Name": "Dragonic AR-9",
     "Skin Rarity": "Mythical",
     "Base Value": "400,000",
@@ -1703,7 +1766,7 @@
   {
     "Skin Name": "Dreamscape",
     "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
+    "Base Value": "70,000,000",
     "Obtainable By": "50k Lar Kills",
     "Type": "Lar"
   },
@@ -1815,7 +1878,7 @@
   {
     "Skin Name": "Elysian",
     "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
+    "Base Value": "80,000,000",
     "Obtainable By": "25k Shark Kills",
     "Type": "Shark"
   },
@@ -1831,6 +1894,13 @@
     "Skin Rarity": "Common",
     "Base Value": "100",
     "Obtainable By": "All chests / Packs",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Employed",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "1000x💎",
     "Type": "Character"
   },
   {
@@ -2018,7 +2088,7 @@
   {
     "Skin Name": "Flaming",
     "Skin Rarity": "Mythical",
-    "Base Value": "115,000,000",
+    "Base Value": "150,000,000",
     "Obtainable By": "10k Bayonet Kills",
     "Type": "Bayonet"
   },
@@ -2191,6 +2261,13 @@
     "Type": "LAR"
   },
   {
+    "Skin Name": "Gamma",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "Masten Gift",
+    "Type": "Character"
+  },
+  {
     "Skin Name": "Ganache",
     "Skin Rarity": "Mythical",
     "Base Value": "700,000",
@@ -2209,6 +2286,13 @@
     "Skin Rarity": "Mythical",
     "Base Value": "600,000",
     "Obtainable By": "Watch 15 hours Kirka",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Gentleman",
+    "Skin Rarity": "Mythical",
+    "Base Value": "35,000,000",
+    "Obtainable By": "1000x💎",
     "Type": "Character"
   },
   {
@@ -2405,6 +2489,13 @@
     "Skin Rarity": "Mythical",
     "Base Value": "100,000,000",
     "Obtainable By": "2000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Gore",
+    "Skin Rarity": "Mythical",
+    "Base Value": "35,000,000",
+    "Obtainable By": "1000x💎",
     "Type": "Character"
   },
   {
@@ -2760,7 +2851,7 @@
   {
     "Skin Name": "Howl",
     "Skin Rarity": "Legendary",
-    "Base Value": "18,000,000",
+    "Base Value": "33,000,000",
     "Obtainable By": "16th Clan War",
     "Type": "LAR"
   },
@@ -2770,6 +2861,13 @@
     "Base Value": "1,000",
     "Obtainable By": "All chests / Packs",
     "Type": "VITA"
+  },
+  {
+    "Skin Name": "Huney",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
   },
   {
     "Skin Name": "Hunter",
@@ -3071,6 +3169,13 @@
     "Base Value": "500,000,000",
     "Obtainable By": "Offical Giveaway",
     "Type": "Shark"
+  },
+  {
+    "Skin Name": "Kitsune",
+    "Skin Rarity": "Mythical",
+    "Base Value": "30,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
   },
   {
     "Skin Name": "Knightfall",
@@ -3488,7 +3593,7 @@
   {
     "Skin Name": "Marage",
     "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
+    "Base Value": "200,000,000",
     "Obtainable By": "3000 SRP & 150x 💎",
     "Type": "Character"
   },
@@ -3759,6 +3864,13 @@
     "Type": "Shark"
   },
   {
+    "Skin Name": "Muppet",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Exclusive Giveaway",
+    "Type": "Character"
+  },
+  {
     "Skin Name": "Murdered",
     "Skin Rarity": "Legendary",
     "Base Value": "10,000",
@@ -3880,7 +3992,7 @@
   {
     "Skin Name": "Nokken",
     "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
+    "Base Value": "135,000,000",
     "Obtainable By": "1000x💎",
     "Type": "Character"
   },
@@ -3974,6 +4086,13 @@
     "Base Value": "325,000,000",
     "Obtainable By": "First 100 accounts ",
     "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Onesie",
+    "Skin Rarity": "Mythical",
+    "Base Value": "80,000,000",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
   },
   {
     "Skin Name": "Oni",
@@ -4200,6 +4319,13 @@
     "Type": "Character"
   },
   {
+    "Skin Name": "Phoenix",
+    "Skin Rarity": "Mythical",
+    "Base Value": "500,000,000",
+    "Obtainable By": "Exclusive Giveaway",
+    "Type": "Character"
+  },
+  {
     "Skin Name": "Pibble",
     "Skin Rarity": "Mythical",
     "Base Value": "3,000,000",
@@ -4354,6 +4480,13 @@
     "Type": "MAC-10"
   },
   {
+    "Skin Name": "Pop",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "Masten Gift",
+    "Type": "Character"
+  },
+  {
     "Skin Name": "Priceless",
     "Skin Rarity": "Mythical",
     "Base Value": "1,000,000,000",
@@ -4468,7 +4601,7 @@
   {
     "Skin Name": "R32",
     "Skin Rarity": "Mythical",
-    "Base Value": "95,000,000",
+    "Base Value": "80,000,000",
     "Obtainable By": "32k shark headshots",
     "Type": "Shark"
   },
@@ -5012,6 +5145,13 @@
     "Type": "MAC-10"
   },
   {
+    "Skin Name": "Scorcher",
+    "Skin Rarity": "Mythical",
+    "Base Value": "1,000,000",
+    "Obtainable By": "43rd Clan War",
+    "Type": "Shark"
+  },
+  {
     "Skin Name": "Sculpture",
     "Skin Rarity": "Mythical",
     "Base Value": "150,000,000",
@@ -5061,9 +5201,86 @@
     "Type": "SCAR"
   },
   {
+    "Skin Name": "Shit Ar-9",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "\"Shit\" 850x💎",
+    "Type": "Ar-9"
+  },
+  {
+    "Skin Name": "Shit Bayonet",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "\"Shit\" 850x💎",
+    "Type": "Bayonet"
+  },
+  {
+    "Skin Name": "Shit LAR",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "\"Shit\" 850x💎",
+    "Type": "LAR"
+  },
+  {
+    "Skin Name": "Shit M60",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "\"Shit\" 850x💎",
+    "Type": "M60"
+  },
+  {
+    "Skin Name": "Shit Mac-10",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "\"Shit\" 850x💎",
+    "Type": "Mac-10"
+  },
+  {
+    "Skin Name": "Shit Revolver",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "\"Shit\" 850x💎",
+    "Type": "Revolver"
+  },
+  {
+    "Skin Name": "Shit Scar",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "\"Shit\" 850x💎",
+    "Type": "Scar"
+  },
+  {
+    "Skin Name": "Shit Shark",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "\"Shit\" 850x💎",
+    "Type": "Shark"
+  },
+  {
+    "Skin Name": "Shit Tomahawk",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "\"Shit\" 850x💎",
+    "Type": "Tomahawk"
+  },
+  {
+    "Skin Name": "Shit Vita",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "\"Shit\" 850x💎",
+    "Type": "Vita"
+  },
+  {
+    "Skin Name": "Shit Weatie",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "\"Shit\" 850x💎",
+    "Type": "Weatie"
+  },
+  {
     "Skin Name": "Shiver",
     "Skin Rarity": "Mythical",
-    "Base Value": "1,300,000",
+    "Base Value": "2,000,000",
     "Obtainable By": "Watch 15 hours Kirka",
     "Type": "Character"
   },
@@ -5091,7 +5308,7 @@
   {
     "Skin Name": "Silver Bullet",
     "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
+    "Base Value": "100,000,000",
     "Obtainable By": " 2500 SRP &150x 💎",
     "Type": "Vita"
   },
@@ -5119,7 +5336,7 @@
   {
     "Skin Name": "Sizzle",
     "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
+    "Base Value": "12,000,000",
     "Obtainable By": "1500 SRP & 150x 💎",
     "Type": "Character"
   },
@@ -5320,9 +5537,16 @@
     "Type": "AR-9"
   },
   {
+    "Skin Name": "Splanch",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "55k Vita Kills",
+    "Type": "Vita"
+  },
+  {
     "Skin Name": "Splash",
     "Skin Rarity": "Mythical",
-    "Base Value": "12,000,000",
+    "Base Value": "15,000,000",
     "Obtainable By": "2.5k Bayonet Kills",
     "Type": "Bayonet"
   },
@@ -5420,7 +5644,7 @@
   {
     "Skin Name": "Static",
     "Skin Rarity": "Mythical",
-    "Base Value": "3,500,000",
+    "Base Value": "5,000,000",
     "Obtainable By": "15000 Vita Headshots",
     "Type": "Vita"
   },
@@ -5565,6 +5789,13 @@
     "Type": "Revolver"
   },
   {
+    "Skin Name": "Synergy",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "70k LAR Kills",
+    "Type": "LAR"
+  },
+  {
     "Skin Name": "Tag",
     "Skin Rarity": "Mythical",
     "Base Value": "7,000,000",
@@ -5588,7 +5819,7 @@
   {
     "Skin Name": "Target",
     "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
+    "Base Value": "3,500,000",
     "Obtainable By": "1000 SRP & 150x 💎",
     "Type": "Revolver"
   },
@@ -5866,6 +6097,13 @@
     "Type": "Character"
   },
   {
+    "Skin Name": "Verde",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "40k Bayonet Kills",
+    "Type": "Bayonet"
+  },
+  {
     "Skin Name": "Vibes",
     "Skin Rarity": "Mythical",
     "Base Value": "3,200,000",
@@ -6071,7 +6309,7 @@
   {
     "Skin Name": "Wave Dot",
     "Skin Rarity": "Mythical",
-    "Base Value": "160,000,000",
+    "Base Value": "170,000,000",
     "Obtainable By": "10k Revolver Kills",
     "Type": "Revolver"
   },
@@ -6148,7 +6386,7 @@
   {
     "Skin Name": "Wolfy",
     "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
+    "Base Value": "200,000,000",
     "Obtainable By": "1000x💎",
     "Type": "Character"
   },
@@ -6293,223 +6531,6 @@
     "Type": "Character"
   },
   {
-    "Skin Name": "Zzzz",
-    "Skin Rarity": "Rare",
-    "Base Value": "250",
-    "Obtainable By": "All chests / Packs",
-    "Type": "Revolver"
-  },
-  {
-    "Skin Name": "Kitsune",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "1000x💎",
-    "Type": "Character"
-  },
-  {
-    "Skin Name": "Gore",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "1000x💎",
-    "Type": "Character"
-  },
-  {
-    "Skin Name": "Shit Vita",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "\"Shit\" 850x💎",
-    "Type": "Vita"
-  },
-  {
-    "Skin Name": "Shit Tomahawk",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "\"Shit\" 850x💎",
-    "Type": "Tomahawk"
-  },
-  {
-    "Skin Name": "Shit Weatie",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "\"Shit\" 850x💎",
-    "Type": "Weatie"
-  },
-  {
-    "Skin Name": "Shit Bayonet",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "\"Shit\" 850x💎",
-    "Type": "Bayonet"
-  },
-  {
-    "Skin Name": "Shit Scar",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "\"Shit\" 850x💎",
-    "Type": "Scar"
-  },
-  {
-    "Skin Name": "Shit Mac-10",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "\"Shit\" 850x💎",
-    "Type": "Mac-10"
-  },
-  {
-    "Skin Name": "Shit Shark",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "\"Shit\" 850x💎",
-    "Type": "Shark"
-  },
-  {
-    "Skin Name": "Shit Revolver",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "\"Shit\" 850x💎",
-    "Type": "Revolver"
-  },
-  {
-    "Skin Name": "Shit LAR",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "\"Shit\" 850x💎",
-    "Type": "LAR"
-  },
-  {
-    "Skin Name": "Shit Ar-9",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "\"Shit\" 850x💎",
-    "Type": "Ar-9"
-  },
-  {
-    "Skin Name": "Shit M60",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "\"Shit\" 850x💎",
-    "Type": "M60"
-  },
-  {
-    "Skin Name": "Arachne",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "43rd Clan War",
-    "Type": "Vita"
-  },
-  {
-    "Skin Name": "Scorcher",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "43rd Clan War",
-    "Type": "Shark"
-  },
-  {
-    "Skin Name": "CYB3R",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "43rd Clan War",
-    "Type": "Bayonet"
-  },
-  {
-    "Skin Name": "Astatine",
-    "Skin Rarity": "Mythical",
-    "Base Value": "35,000,000",
-    "Obtainable By": "1000x💎",
-    "Type": "Character"
-  },
-  {
-    "Skin Name": "Biker",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "1000x💎",
-    "Type": "Character"
-  },
-  {
-    "Skin Name": "Dragonic",
-    "Skin Rarity": "Mythical",
-    "Base Value": "45,000,000",
-    "Obtainable By": "1000x💎",
-    "Type": "Character"
-  },
-  {
-    "Skin Name": "Huney",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "1000x💎",
-    "Type": "Character"
-  },
-  {
-    "Skin Name": "Bansee",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "Watch 15 hours Kirka",
-    "Type": "Vita"
-  },
-  {
-    "Skin Name": "Onesie",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "1000x💎",
-    "Type": "Character"
-  },
-  {
-    "Skin Name": "Chick",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "1000x💎",
-    "Type": "Character"
-  },
-  {
-    "Skin Name": "Carrot Blaster",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "1000x💎",
-    "Type": "Revolver"
-  },
-  {
-    "Skin Name": "Bubblepop",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "1000x💎",
-    "Type": "Bayonet"
-  },
-  {
-    "Skin Name": "Phoenix",
-    "Skin Rarity": "Mythical",
-    "Base Value": "500,000,000",
-    "Obtainable By": "Exclusive Giveaway",
-    "Type": "Character"
-  },
-  {
-    "Skin Name": "Muppet",
-    "Skin Rarity": "Mythical",
-    "Base Value": "500,000,000",
-    "Obtainable By": "Exclusive Giveaway",
-    "Type": "Character"
-  },
-  {
-    "Skin Name": "Gamma",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "Masten Gift",
-    "Type": "Character"
-  },
-  {
-    "Skin Name": "Pop",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "Masten Gift",
-    "Type": "Character"
-  },
-  {
-    "Skin Name": "Gentleman",
-    "Skin Rarity": "Mythical",
-    "Base Value": "TBD",
-    "Obtainable By": "1000x💎",
-    "Type": "Character"
-  },
-  {
     "Skin Name": "Zombie",
     "Skin Rarity": "Mythical",
     "Base Value": "750,000,000",
@@ -6517,7 +6538,21 @@
     "Type": "Character"
   },
   {
-    "Skin Name": "Employed",
+    "Skin Name": "Zzzz",
+    "Skin Rarity": "Rare",
+    "Base Value": "250",
+    "Obtainable By": "All chests / Packs",
+    "Type": "Revolver"
+  },
+  {
+    "Skin Name": "Ophelia",
+    "Skin Rarity": "Mythical",
+    "Base Value": "TBD",
+    "Obtainable By": "1000x💎",
+    "Type": "Character"
+  },
+  {
+    "Skin Name": "Moltoranth",
     "Skin Rarity": "Mythical",
     "Base Value": "TBD",
     "Obtainable By": "1000x💎",
