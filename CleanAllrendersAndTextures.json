@@ -1,0 +1,2298 @@
+{
+  "22": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.564dcf40.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3c1c1d8a.webp"
+  },
+  "1337": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.67fdc7ae.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.74c78eb8.webp"
+  },
+  "2022": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8e651770.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.51595424.webp"
+  },
+  "2024": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e0f2bc80.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.02854200.webp"
+  },
+  "2025 Bayonet": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.43e20c4d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.41164069.webp"
+  },
+  "2025 Revolver": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.f5c8d716.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.1d1bb223.webp"
+  },
+  "2025 Shark": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.f5ae9096.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3d216747.webp"
+  },
+  "2025 VITA": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b8490c90.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.45215615.webp"
+  },
+  "2026 Bayonet": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2dc48068.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.20df26d0.webp"
+  },
+  "2026 Shark": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.23c89005.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.505ff447.webp"
+  },
+  "Abstraction": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a1fa25d8.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ca33dc57.webp"
+  },
+  "Ace": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.0c83327f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b1b092f1.webp"
+  },
+  "Admiral": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a775673e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.007a8cc7.webp"
+  },
+  "Alien": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.cd1660a4.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.dce633f2.webp"
+  },
+  "Alien Hazard": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8cfb0b3f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.7538ae76.webp"
+  },
+  "Alighted": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.11ec1518.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.7ddc569a.webp"
+  },
+  "All Spark": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c50c166d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.1c026589.webp"
+  },
+  "Alpha": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5e78dccb.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.cc279290.webp"
+  },
+  "Alucard": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b94f2f60.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.88ae76fa.webp"
+  },
+  "Ambrosia": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c7dea640.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.30e7f67e.webp"
+  },
+  "Anarch": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.65222298.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0d627beb.webp"
+  },
+  "Anarchy": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e3e4034d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ac52267a.webp"
+  },
+  "Andromeda": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2d7619ca.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b7bbd9e2.webp"
+  },
+  "Antique": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.0db8c4ab.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c56dd194.webp"
+  },
+  "Apollo": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3fe021a4.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8d44d9a0.webp"
+  },
+  "Apple": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.f8f35ebb.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.aa8083d7.webp"
+  },
+  "AR-9": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.eb7cfab0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.1794de31.webp"
+  },
+  "Arachne": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.990ed045.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c066ed8a.webp"
+  },
+  "Arcade": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.713a8b83.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f077d21e.webp"
+  },
+  "Archverse": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8ca0e985.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.07fe5d3d.webp"
+  },
+  "Aries": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.04c03f96.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.773c16e4.webp"
+  },
+  "Artic Illusion": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1f3f8b6c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ff5b697c.webp"
+  },
+  "Astra": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.af707337.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b858952b.webp"
+  },
+  "Astral": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2a5cd556.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8ce6a413.webp"
+  },
+  "Astronova": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.350f0d22.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.9c4d759f.webp"
+  },
+  "Atomic": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3b704da9.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c86a6ab3.webp"
+  },
+  "Attention": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fc7a7fad.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.412b6a0b.webp"
+  },
+  "Awesome": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b3c10a29.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c88d489e.webp"
+  },
+  "Aztek": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.97cd1ff3.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ec4439c0.webp"
+  },
+  "Azure": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ac8e33c2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d4de5b25.webp"
+  },
+  "Back To School": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1bddbdc0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e8dc4fec.webp"
+  },
+  "Bamboo": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.91d87e81.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.083e4bb0.webp"
+  },
+  "Bansee": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.010dd5c7.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.40f5e4e7.webp"
+  },
+  "Bay": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ca5cf065.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.916f63cd.webp"
+  },
+  "Bayonet": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.f3df9462.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.76c24e59.webp"
+  },
+  "Beach": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.0a1adc23.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.31331ee4.webp"
+  },
+  "Bee": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.22403ce5.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f30be892.webp"
+  },
+  "Beet": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fb7a313c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.447306c7.webp"
+  },
+  "Billion": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.16b4a606.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.24738f5d.webp"
+  },
+  "Black Flame": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.0e18dcd9.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.41c22230.webp"
+  },
+  "Blackhole": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.898a9aa8.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0c3e145e.webp"
+  },
+  "Black Metal": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a917527b.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6cd2ce3e.webp"
+  },
+  "Black Metal 2.0": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1729051e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.4233f12f.webp"
+  },
+  "Blackout": {
+    "renderurl": "data:image/webp;base64,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",
+    "textureurl": "https://kirka.io/assets/img/texture.243cff90.webp"
+  },
+  "Blast AR-9": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.781fbd0e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.4b365c7b.webp"
+  },
+  "Blast Bayonet": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.88fb9750.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.879963be.webp"
+  },
+  "Blast LAR": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6913393e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.158475bb.webp"
+  },
+  "Blast M60": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5dec29ab.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.5bd0bb6d.webp"
+  },
+  "Blast MAC-10": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c209d4b3.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.da86af9f.webp"
+  },
+  "Blast Revolver": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.83279c06.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0f313008.webp"
+  },
+  "Blast SCAR": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3396b2e8.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e6a3a557.webp"
+  },
+  "Blast Shark": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.0c72ab92.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.24ea5b02.webp"
+  },
+  "Blast Tomahawk": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.18d55c15.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0906ce32.webp"
+  },
+  "Blast VITA": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.263e51c0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.727a0408.webp"
+  },
+  "Blast Weatie": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.67508c81.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a2603e1a.webp"
+  },
+  "Bled": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7943f5ae.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.9c950380.webp"
+  },
+  "Bloo": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.cf9e3209.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a2838521.webp"
+  },
+  "Blood Crystal": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6c1cd27e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.72890e44.webp"
+  },
+  "Bloody": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.18114e86.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c3724579.webp"
+  },
+  "Blueberry": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b3e0891a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.be21a709.webp"
+  },
+  "Blue Hell": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b9d43686.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.013b4936.webp"
+  },
+  "Bone": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.dc41ec24.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.5db7e15a.webp"
+  },
+  "Born": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9687e551.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.9d3eab7e.webp"
+  },
+  "Bound": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.16c3ec51.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.84224ec8.webp"
+  },
+  "Bros": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.61413695.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.66f47bcf.webp"
+  },
+  "Brown": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.549486ab.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b30d3b56.webp"
+  },
+  "Bubblegum": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.37614889.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f8037cda.webp"
+  },
+  "Bubblepop": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.171c7f66.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3293e221.webp"
+  },
+  "Bush": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.52f87d97.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.56df6104.webp"
+  },
+  "Bushido": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e2fc2dee.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.1f514730.webp"
+  },
+  "Butterflies": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.64f183af.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c7965f06.webp"
+  },
+  "Camouflage": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8b00ddfd.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.228a7fa5.webp"
+  },
+  "Candle": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.07e62d53.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.5394ef01.webp"
+  },
+  "Candy": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b9c61cef.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d778968c.webp"
+  },
+  "Candy Illusion": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d7e3b2ec.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.822b8fbc.webp"
+  },
+  "Cane": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.930f343c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.dc76627e.webp"
+  },
+  "Canvas": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6aa138c1.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.402fd68b.webp"
+  },
+  "Capricorn": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ac2a92ee.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.428f6c8a.webp"
+  },
+  "Carbon Fade": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.14d434ac.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c124f5f2.webp"
+  },
+  "Cargo": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1d966706.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.676d0b08.webp"
+  },
+  "Caring": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5e8d7638.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8176e357.webp"
+  },
+  "Case Hardened": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.77e8c1ef.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.033cb7a1.webp"
+  },
+  "Cassiope": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.88feabfe.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.279c442a.webp"
+  },
+  "Catalyst": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8e8c578f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.39271414.webp"
+  },
+  "Celebrate": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2869cd7e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a05e5a7a.webp"
+  },
+  "Champion": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.feb88e5f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.7330acc2.webp"
+  },
+  "Charmed": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.cfa4fe1c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6b6deb97.webp"
+  },
+  "Checker": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.887cc702.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.2ba27f41.webp"
+  },
+  "CheckUV": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.740a35b2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b3b1cdd0.webp"
+  },
+  "Cheesy": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1c230d7d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.437045e5.webp"
+  },
+  "Cherry": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a8a42959.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8506219b.webp"
+  },
+  "Chess": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a2049fea.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6178eac4.webp"
+  },
+  "Christmas": {
+    "renderurl": "https://kirka.io/assets/img/__chest-christmas__.ccea4ad0.png",
+    "textureurl": "https://kirka.io"
+  },
+  "Chroma": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.247e5575.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.af4b2f98.webp"
+  },
+  "Chromaflame": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d9ae56fe.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.516969de.webp"
+  },
+  "Chromatic": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.cb320c73.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.df40e2ab.webp"
+  },
+  "Chromium": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.20446d20.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.425b0f4c.webp"
+  },
+  "Circuit": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.82b401ba.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.af822d2d.webp"
+  },
+  "Cloudy": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5127c16c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.90471bad.webp"
+  },
+  "Clover": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.58cae74e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d3adef11.webp"
+  },
+  "Clownicidal": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a0ef1cbd.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ca74820f.webp"
+  },
+  "Cold": {
+    "renderurl": "https://kirka.io/assets/img/__questions__.a6c748fd.png",
+    "textureurl": "https://kirka.io"
+  },
+  "Complexity": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.032b46df.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.63e5e23e.webp"
+  },
+  "Constellations": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4766bd42.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3641c7d4.webp"
+  },
+  "Contrast": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.50f8cb13.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.5d461806.webp"
+  },
+  "Cornfield": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.83fb97d2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6c982378.webp"
+  },
+  "Cosmos": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a6679c1d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.11b63cf9.webp"
+  },
+  "Cover": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.35eb885b.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.7442f838.webp"
+  },
+  "Crash": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d9cafe4b.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e0742d21.webp"
+  },
+  "Crazy": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e9d8b8a6.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e1207d0b.webp"
+  },
+  "Crimson": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d34f2a85.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e1697a4d.webp"
+  },
+  "Critical": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a3c89b8a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e82f6e1f.webp"
+  },
+  "Crosses": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7890544c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.55b189f3.webp"
+  },
+  "Cryptex": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.bc7989c2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f27c6b0b.webp"
+  },
+  "Crystal": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3586885f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.1123424b.webp"
+  },
+  "Crystalized": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8aa7853a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.1e7c8ef7.webp"
+  },
+  "Cult": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.eb4b88ec.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a42170f7.webp"
+  },
+  "Curry": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9d6f6e09.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.df364a25.webp"
+  },
+  "Cyan": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.691cce18.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.2cdd7e06.webp"
+  },
+  "CYB3R": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ce879f93.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.42de6109.webp"
+  },
+  "Cyber": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.24145eec.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.9fe7409b.webp"
+  },
+  "Cyber AR-9": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4f49a869.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.712520c8.webp"
+  },
+  "Cyber Bayonet": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c8ca5eb3.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.bd9a7f52.webp"
+  },
+  "Cyber LAR": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8809947d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0895d460.webp"
+  },
+  "Cyber M60": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.af8a57e1.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ba093fb9.webp"
+  },
+  "Cyber MAC-10": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.46971f83.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a3dbc512.webp"
+  },
+  "Cyberpunk": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2ca93eac.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.78cff0b3.webp"
+  },
+  "Cyber Revolver": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c1765ccb.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3562d69a.webp"
+  },
+  "Cyber SCAR": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ccbb92b0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.22b5838b.webp"
+  },
+  "Cyber Shark": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1d5dcedb.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e6e60fe1.webp"
+  },
+  "Cyber Tomahawk": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.f8050fa2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.49d097f2.webp"
+  },
+  "Cyber VITA": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e61f0317.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.74d78c11.webp"
+  },
+  "Cyber Weatie": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ead01f13.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a9f184b9.webp"
+  },
+  "Cyborg": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7d08f520.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b44df763.webp"
+  },
+  "Damascus": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a01dab8c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6768bccd.webp"
+  },
+  "Dandelion": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.723f67ac.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.82dc8420.webp"
+  },
+  "Danger": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.63f19ff6.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0fb69ea2.webp"
+  },
+  "Darling": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fdd6918d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.2e2a5777.webp"
+  },
+  "Decorations": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9d2139d0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8077c602.webp"
+  },
+  "Delicate": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d9b77185.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3f65a1fa.webp"
+  },
+  "Demon": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e6a08c88.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.45c269e2.webp"
+  },
+  "Diablo": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.442baeaf.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.4901b113.webp"
+  },
+  "Diane": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2718f204.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f3fb3a84.webp"
+  },
+  "Dissident": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d34fbebf.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6ece1087.webp"
+  },
+  "Distortion": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e408e07f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6ad30f6f.webp"
+  },
+  "Donut": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.35f3377d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.1522c96a.webp"
+  },
+  "Dragonic AR-9": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7aa8ee17.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.63ea4d0b.webp"
+  },
+  "Dragonic Bayonet": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4e217862.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.fdf63403.webp"
+  },
+  "Dragonic LAR": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.f844e7c0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.28058b11.webp"
+  },
+  "Dragonic M60": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.619ff70f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8c3a8be1.webp"
+  },
+  "Dragonic MAC-10": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.94133d29.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d8ac4f7b.webp"
+  },
+  "Dragonic Revolver": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.24d52e40.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.49485615.webp"
+  },
+  "Dragonic SCAR": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.cebd790c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.025c48df.webp"
+  },
+  "Dragonic Shark": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.cf9a5e1c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.299dc29d.webp"
+  },
+  "Dragonic Tomahawk": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d1245bcb.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8ba45f73.webp"
+  },
+  "Dragonic VITA": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.dcf6dc57.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.029e582f.webp"
+  },
+  "Dragonic Weatie": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ffc2c040.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.eacb0ea9.webp"
+  },
+  "Dragon Shark": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.78df0687.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.41443a9b.webp"
+  },
+  "Drake": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.709f73e0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.7053eab7.webp"
+  },
+  "Dreamscape": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.932aa305.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.71e79020.webp"
+  },
+  "Easter": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3373e820.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f8fdb8b4.webp"
+  },
+  "Eci": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5b3b28a1.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d21aad57.webp"
+  },
+  "Eclipse": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.52c37848.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.47cab826.webp"
+  },
+  "Egg Hunt": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7b2c17c9.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.81dbb575.webp"
+  },
+  "Eggs": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d3c5cee0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e8493f6a.webp"
+  },
+  "Electra": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6b22bc83.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.39f1bb44.webp"
+  },
+  "Elysian": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9abd10a4.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.7b0ba436.webp"
+  },
+  "Empress": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6dba0afe.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d167dda9.webp"
+  },
+  "Engravement": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9e8c34b1.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.5dcc5953.webp"
+  },
+  "Eruption": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.796fe421.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.86751ae0.webp"
+  },
+  "Eva": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fcbf83d3.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8e1554e7.webp"
+  },
+  "Evening": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.54f45829.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.29bbade0.webp"
+  },
+  "Fabric": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.eb9fc2dd.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.116a1882.webp"
+  },
+  "Fade": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c8e8120a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.eb2a2fd6.webp"
+  },
+  "Faded": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.541c09d6.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.054a47d3.webp"
+  },
+  "Fading Waves": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2c30b246.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6aa95796.webp"
+  },
+  "Fallen": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4d69f9af.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8b66103e.webp"
+  },
+  "Fallout": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b7ea8b98.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.93f4f41d.webp"
+  },
+  "Festive": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4859a7a7.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c3f9b8b5.webp"
+  },
+  "Fever": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.244cdb9c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.14e76408.webp"
+  },
+  "Fire": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.bf216283.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b36182e9.webp"
+  },
+  "Firecracker": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.cd0d8bf4.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.7aff8e6c.webp"
+  },
+  "Flaming": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.cc20ec71.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c6d21d01.webp"
+  },
+  "Flarefang": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.f40a44a2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3b3ccc54.webp"
+  },
+  "Flow": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1328fc18.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6fa321f3.webp"
+  },
+  "Flower": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3ed72e42.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.98a2ba47.webp"
+  },
+  "Fluorescent": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.311ce80a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.fb0e518f.webp"
+  },
+  "Forbidden": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.78c4d530.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a57010fa.webp"
+  },
+  "Forest": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d147b2aa.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.5f54c487.webp"
+  },
+  "Forge": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.de363769.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.25337fa6.webp"
+  },
+  "Fortunate": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.883ef4cb.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.708483c9.webp"
+  },
+  "Fragile": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.99ef2d8d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.418f78ac.webp"
+  },
+  "Friendly": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8bf7718f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0cc519dc.webp"
+  },
+  "Fudge": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.138b039f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.5b363e08.webp"
+  },
+  "Fun": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e3da9040.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.76f02d7c.webp"
+  },
+  "Fur": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c326b855.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.064ee79e.webp"
+  },
+  "Galaxy": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.240c67e6.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.9746a9bb.webp"
+  },
+  "Ganache": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1a4d16b1.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.eef5ef74.webp"
+  },
+  "Garden": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d193b888.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d9b0e8b6.webp"
+  },
+  "Gardener": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9871fc99.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.cb2eec3e.webp"
+  },
+  "Gem": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6408d97a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8463498e.webp"
+  },
+  "George": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7edc219e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a5a23535.webp"
+  },
+  "Ghost": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.32bea804.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b918b7ed.webp"
+  },
+  "Gift": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.08749e6e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.432c94c2.webp"
+  },
+  "Gilded": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.112edc1e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.97cd94f1.webp"
+  },
+  "Girls band": {
+    "renderurl": "https://kirka.io/assets/img/__questions__.a6c748fd.png",
+    "textureurl": "https://kirka.io"
+  },
+  "Glacial": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b2a0c688.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.640e59c7.webp"
+  },
+  "Glance": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5ab143f1.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.23b9555e.webp"
+  },
+  "Glitter": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.cc2dd3a3.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.750b0963.webp"
+  },
+  "Globe": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8bb7fb70.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.712b1e0f.webp"
+  },
+  "Gloop": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d120e0b5.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.4d075a12.webp"
+  },
+  "Gloopies": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2d410ba7.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0cc42136.webp"
+  },
+  "Godzilla": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8b9f98f5.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e5c5cea5.webp"
+  },
+  "Gold": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.df1dae42.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.364a1f2a.webp"
+  },
+  "Gold Coins": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8e122240.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0516c979.webp"
+  },
+  "Golden": {
+    "renderurl": "https://kirka.io/assets/img/__chest-3__.ea3b713c.webp",
+    "textureurl": "https://kirka.io"
+  },
+  "Grass": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.514040db.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.00f31be9.webp"
+  },
+  "Greg": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d6cefc7e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.5b5b0f22.webp"
+  },
+  "Hadley": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.29b54f02.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.31508319.webp"
+  },
+  "Halloween": {
+    "renderurl": "https://kirka.io/assets/img/__chest-halloween-large__.b777522a.webp",
+    "textureurl": "https://kirka.io"
+  },
+  "Hannah": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.62f4a49f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ff8451b7.webp"
+  },
+  "Hardened": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7a8e84f1.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d0d15ce2.webp"
+  },
+  "Heart": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.20495dc7.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3d232bcb.webp"
+  },
+  "Heartbeat": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6b25de36.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ec34644c.webp"
+  },
+  "Hearted": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7b09004f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ce29b6bb.webp"
+  },
+  "Heather": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9c1acd10.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c41b6bb6.webp"
+  },
+  "Heatwave": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.868e48d9.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a5039865.webp"
+  },
+  "Heavy": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fba1d384.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.fb74207c.webp"
+  },
+  "Height": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.397e7fee.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.93551b1d.webp"
+  },
+  "Helendus": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7f4db371.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3ab2c259.webp"
+  },
+  "Hellbent": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ba20cdee.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.173a7352.webp"
+  },
+  "Hell let loose": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1aa9e3d9.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b0311b84.webp"
+  },
+  "Hex": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8f424b58.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.827c029f.webp"
+  },
+  "Hexagon": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.522e064a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.59365c09.webp"
+  },
+  "Hologram": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.575d9c8d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d209e4f3.webp"
+  },
+  "Honey": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.f507bab2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.93c2ef17.webp"
+  },
+  "Hope": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.17c6bcfe.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0075f173.webp"
+  },
+  "Hot Rod": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.90038e83.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c4fda2f6.webp"
+  },
+  "Hotrod AR-9": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.99ead175.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.aeda089e.webp"
+  },
+  "Hotrod Bayonet": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.624c2232.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f3b92124.webp"
+  },
+  "Hotrod LAR": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1bc38f5d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ae2c32d8.webp"
+  },
+  "Hotrod M60": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a6861ed0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.147808d8.webp"
+  },
+  "Hotrod MAC-10": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.645b12e3.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ccb5ce93.webp"
+  },
+  "Hotrod Revolver": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d9589f67.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.45cb1051.webp"
+  },
+  "Hotrod SCAR": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ab349447.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a77fc965.webp"
+  },
+  "Hotrod Shark": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fde97f94.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b22fef67.webp"
+  },
+  "Hotrod Tomahawk": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.33cafdc8.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.65314bed.webp"
+  },
+  "Hotrod VITA": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d93e5752.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.80fc9c6d.webp"
+  },
+  "Hotrod Weatie": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.58238253.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.53cb1ebd.webp"
+  },
+  "Howl": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.eac928d9.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ff1f09d1.webp"
+  },
+  "Hubbard": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1e886d9a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.dada529f.webp"
+  },
+  "Hunter": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.77ab3ab3.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3fe9ba92.webp"
+  },
+  "Hypnotic": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.57f72ae8.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.796d0aa8.webp"
+  },
+  "Ice": {
+    "renderurl": "https://kirka.io/assets/img/__chest-2__.2de0a07c.webp",
+    "textureurl": "https://kirka.io"
+  },
+  "Ice Breaker": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.43d89f96.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.81c3b633.webp"
+  },
+  "Ice Cold": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.faefa624.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0c413c40.webp"
+  },
+  "Icing": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ad050a47.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f9db8bb0.webp"
+  },
+  "Immortal": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e27bd808.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.490c7963.webp"
+  },
+  "Imperial": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ba63a336.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.fc42a65f.webp"
+  },
+  "Infarction": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e9fbec4f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.72b09167.webp"
+  },
+  "Infernal": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8ac91960.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d309dc06.webp"
+  },
+  "Infra": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c25f8f41.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.5ca570f6.webp"
+  },
+  "Iron": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.397c927a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a64eb661.webp"
+  },
+  "Isolation": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d6afd73d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ea621165.webp"
+  },
+  "Ivoire": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.af64803d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.38f90929.webp"
+  },
+  "Jade": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e2bcd5c4.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6a2e03e5.webp"
+  },
+  "Jap": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4a6283bb.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f9aafb3a.webp"
+  },
+  "Jingles": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.86e38e94.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f7042e33.webp"
+  },
+  "Karo": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ef2f8668.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8fee292b.webp"
+  },
+  "Kin": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.f99a5672.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3c3e7f7e.webp"
+  },
+  "Kiss": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9bd93982.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a69dbeb8.webp"
+  },
+  "Koi": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.171593c2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6c337e43.webp"
+  },
+  "Korunami": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2b9f70c4.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c982112d.webp"
+  },
+  "Kraken": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.67a9ed74.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.38f2b013.webp"
+  },
+  "Kyoto": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.720d2be8.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.2ea0151a.webp"
+  },
+  "Labyrinth": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.17cd7215.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.452cb966.webp"
+  },
+  "Land": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7ab79467.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f011b25f.webp"
+  },
+  "Landoh": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.772bba45.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f887b1c3.webp"
+  },
+  "LAR": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a0363f9a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d97db214.webp"
+  },
+  "Larry": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.378fc765.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e37ba9b0.webp"
+  },
+  "Lashes": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.aa5b8b23.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.7bda431f.webp"
+  },
+  "Lava": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d682b8bd.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.31b19729.webp"
+  },
+  "Legend": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6b2a2301.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8c56c7aa.webp"
+  },
+  "Lemon": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.56dabb3f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.dc1f481b.webp"
+  },
+  "LEO": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8c738f64.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.407e2b98.webp"
+  },
+  "Leopard": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.94f13523.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.bd57e840.webp"
+  },
+  "Liberty": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6bc00b7c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d0ae7c29.webp"
+  },
+  "Lightning": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.017236a4.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.447db395.webp"
+  },
+  "Lis": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2d6081e2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e0a5e09f.webp"
+  },
+  "Love": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d47e72c7.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a9e4ea9c.webp"
+  },
+  "Love Bites": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.cddf5ff1.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.42e20418.webp"
+  },
+  "Loved": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.12f9ac4d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.2feb8f60.webp"
+  },
+  "Lucky": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b8de338a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.aba9d9c1.webp"
+  },
+  "Luminescent": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b111dd3c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.09998c00.webp"
+  },
+  "Lunar": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e0431f08.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.61f1b0de.webp"
+  },
+  "Lustre": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fdac3fa1.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f201b63c.webp"
+  },
+  "Lux": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fe0298a3.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.df576343.webp"
+  },
+  "M60": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5e482163.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b658c822.webp"
+  },
+  "MAC-10": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4876657f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.36d894bd.webp"
+  },
+  "Machinery": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2096740c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.79566d54.webp"
+  },
+  "Magic": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d69f9a24.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a411f41a.webp"
+  },
+  "Magic Splat": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.248232d2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e6010f69.webp"
+  },
+  "Magma": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.72d1ae57.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.4d4cb64d.webp"
+  },
+  "Magnum": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fc63eb78.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d46d7e76.webp"
+  },
+  "Majestic": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2835f10f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0a71f68d.webp"
+  },
+  "Malachite": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e0b585e3.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.170f1c4c.webp"
+  },
+  "Marbled": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5116ea68.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8e28c872.webp"
+  },
+  "Master": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e0f87868.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.434799eb.webp"
+  },
+  "Maxwell": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.16c045a7.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3946b87a.webp"
+  },
+  "Megalodon": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.901a3b77.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d5a9744b.webp"
+  },
+  "MemeStar": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c383e896.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.4e91684e.webp"
+  },
+  "Metallic": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2e371e1a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6eddde93.webp"
+  },
+  "Metallic Rainbow": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7d4d0ac1.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.bad76532.webp"
+  },
+  "Meteor": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.69e2c0f1.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f6f06f59.webp"
+  },
+  "Metro": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1c6b0c85.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.bb991ea9.webp"
+  },
+  "Mili": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ca5a734a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6b03ac7d.webp"
+  },
+  "Military": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.26c0f963.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.11703c18.webp"
+  },
+  "Milo": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.960b2364.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a8ff78e2.webp"
+  },
+  "Mindframe": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e165a6bf.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.963aedb7.webp"
+  },
+  "Mirror": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.580e2728.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.667ff4c3.webp"
+  },
+  "Mohito": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.63c65984.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a5fbd91e.webp"
+  },
+  "Moira": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5bdced3f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.27e51d79.webp"
+  },
+  "Molten Core": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.33c5ecc1.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.7ddc610d.webp"
+  },
+  "Mommy": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d6a3fb6d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.898a8a9c.webp"
+  },
+  "Monarch": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.094155a2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.09be60d5.webp"
+  },
+  "Monkey": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9b30186d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a6616c9d.webp"
+  },
+  "Moonlight": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3f12daba.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.30aa91f0.webp"
+  },
+  "Mossy": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4d6562b6.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.4e509f8c.webp"
+  },
+  "Murdered": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.80402417.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.1499aeba.webp"
+  },
+  "Mystic": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.627537b9.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.27612fbb.webp"
+  },
+  "Navy": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.51c51957.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.11663e70.webp"
+  },
+  "Nebula": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b56e1fba.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f5083f82.webp"
+  },
+  "Neon": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d393b6a4.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e5f4bb71.webp"
+  },
+  "Nerida": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4c02769e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.08379d8a.webp"
+  },
+  "New": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ba5f9f72.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0d0e6afa.webp"
+  },
+  "New Year": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c66e1cbf.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b0526123.webp"
+  },
+  "Noble": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3a145177.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f65ad748.webp"
+  },
+  "Noir": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9fdcc7e2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.307d3ebc.webp"
+  },
+  "Normal Map": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.0bbfe044.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f2591376.webp"
+  },
+  "Nova": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4347e520.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.70fb8f2f.webp"
+  },
+  "Nuclear Waste": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a65bb5e8.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d471899a.webp"
+  },
+  "Nyan Cat": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d7a9dbe5.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.fd5e97c0.webp"
+  },
+  "Nyan Shark": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1df16d47.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f0dd4291.webp"
+  },
+  "Oblivion": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9ca74596.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d22d73fd.webp"
+  },
+  "Obsidian": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b601bac8.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d383d67f.webp"
+  },
+  "Old": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.24ee994b.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3afc455f.webp"
+  },
+  "Or": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e0b06fc6.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3c88c1cd.webp"
+  },
+  "Orbit": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5c195f75.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.83803a81.webp"
+  },
+  "Orchid": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.bfd4a139.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b1274ff6.webp"
+  },
+  "Ornaments": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.da7914b0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.76cf863f.webp"
+  },
+  "Ortus": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.f6090086.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.afccd8dd.webp"
+  },
+  "Ostern": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.dc5d17dd.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f37f57c5.webp"
+  },
+  "P-40": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.99844691.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c86f9155.webp"
+  },
+  "Pale": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7424f153.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.7f9249d5.webp"
+  },
+  "Paques": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7c16de21.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.42acf0d4.webp"
+  },
+  "Party": {
+    "renderurl": "https://kirka.io/assets/img/__questions__.a6c748fd.png",
+    "textureurl": "https://kirka.io"
+  },
+  "PCB": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.51f37fa8.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0bcb8bc1.webp"
+  },
+  "Peachy": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.cb4dc800.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d6b757cb.webp"
+  },
+  "Pecan": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.62e4f77d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.055d626c.webp"
+  },
+  "Pegas": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.022a2185.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0511dd11.webp"
+  },
+  "Pencil": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4d352759.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.58ec980e.webp"
+  },
+  "Periodic": {
+    "renderurl": "https://kirka.io/assets/img/__questions__.a6c748fd.png",
+    "textureurl": "https://kirka.io"
+  },
+  "Petal": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.42f9857a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0137dc71.webp"
+  },
+  "Picea": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3078cc99.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.52e52b53.webp"
+  },
+  "Pineapple": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7fa58420.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.4bac2dbf.webp"
+  },
+  "Pink Camouflage": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b18d075f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f8e28e85.webp"
+  },
+  "Pink Demon": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1df3ac9c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ed91e73a.webp"
+  },
+  "Placate": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ce954913.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.08575901.webp"
+  },
+  "Playdate": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c03a00e8.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a7bdabd2.webp"
+  },
+  "Playmate": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d544eb34.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b617ccae.webp"
+  },
+  "Plum": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.12b9324d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.577e7175.webp"
+  },
+  "Polychrome": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9b2668b0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e4be1f8d.webp"
+  },
+  "Polygon": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.681e8ddf.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.9588750d.webp"
+  },
+  "Polygun": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d1d15a23.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8c7a041f.webp"
+  },
+  "Pool Blaster": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e13cdcd0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.57576da2.webp"
+  },
+  "Priceless": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1b4ff818.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.7bfc47f4.webp"
+  },
+  "Prism": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c48268d0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.eb218563.webp"
+  },
+  "Proton Beam": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.02e9ce81.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.aec33e85.webp"
+  },
+  "Psychedelic": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.72297130.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.34030475.webp"
+  },
+  "Psycho": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b904ec50.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0f00c5fa.webp"
+  },
+  "Pulse": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1f80209a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.178a0b96.webp"
+  },
+  "Punji": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.127b4b31.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6505bfe0.webp"
+  },
+  "Quilliam": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9f0302ee.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.164aadd4.webp"
+  },
+  "R32": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a1ca58d8.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.9191820b.webp"
+  },
+  "Rabbit": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4de53fff.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.fe30bcb3.webp"
+  },
+  "Rad": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.dab6593a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0f4dae2c.webp"
+  },
+  "Radioactive": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b49c0704.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.916f12b4.webp"
+  },
+  "Rainbow": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6f6c498e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a08b6252.webp"
+  },
+  "Rampage": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1faecd76.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.139291b4.webp"
+  },
+  "Ramses": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.72c55c6a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b417f6a2.webp"
+  },
+  "Ranked_S1 Bronze": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.42404ccf.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.34a9f648.webp"
+  },
+  "Ranked_S1 Gold": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.71394350.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.36ea80c4.webp"
+  },
+  "Ranked_S1 Silver": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.42fb9b91.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.9a2ba588.webp"
+  },
+  "Ranked_S1 Top10": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7fffaa74.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.09652c4c.webp"
+  },
+  "Ranked_S1 Top100": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1fec6666.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.340800bb.webp"
+  },
+  "Rar": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.179de5f6.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f0368ca2.webp"
+  },
+  "Rasta": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.69105521.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c33a6837.webp"
+  },
+  "Reactor": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5dcb5dd9.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.71135d5a.webp"
+  },
+  "Rebel": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.69389e56.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.54efdeac.webp"
+  },
+  "Redline": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fb12a40a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.2ca8fec7.webp"
+  },
+  "RedMoon": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.269fd43f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.9f06ee68.webp"
+  },
+  "Red Reaper": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.176f526f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.03822f62.webp"
+  },
+  "Reflections": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8cc006fa.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f90a7614.webp"
+  },
+  "Regal": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fb704bd0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.af7fe802.webp"
+  },
+  "Reptile": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.dd3fa858.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.7d6c666d.webp"
+  },
+  "Republica": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a90369b7.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0ee565db.webp"
+  },
+  "Retro": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.889f379a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.2d9358f1.webp"
+  },
+  "Retrowave": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.55895cac.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b581cb81.webp"
+  },
+  "Revolver": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d26a90cd.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0bed9187.webp"
+  },
+  "Rift": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9295dd45.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.092946a2.webp"
+  },
+  "Ritual": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b8896470.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8c0d6fd3.webp"
+  },
+  "Rogue": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.89258c1f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b17f5b02.webp"
+  },
+  "Rosed": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6bf9f9b7.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.84518460.webp"
+  },
+  "Rosy": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ab0805f0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.15cd460c.webp"
+  },
+  "Royalty": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.f94492c3.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.86b004be.webp"
+  },
+  "Rub1x": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.60c96be2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.37a0597d.webp"
+  },
+  "Rusty": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.64abc5a2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.4da4e452.webp"
+  },
+  "Ruth": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.69bc7f8d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.2d6830e7.webp"
+  },
+  "Saint Patrick": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5bd9785b.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.667b7bc7.webp"
+  },
+  "Sakura": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d544f4b7.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c14b67f7.webp"
+  },
+  "Saliman": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3887b2b3.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.7ccaded5.webp"
+  },
+  "Salvaged": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.61d2ee28.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3cffa5c2.webp"
+  },
+  "Sam": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ae374229.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.39306db3.webp"
+  },
+  "Samurai": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6273fee1.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8d392c00.webp"
+  },
+  "Santa": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4c874f20.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a2ac54d2.webp"
+  },
+  "Saurus": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c3a5d96a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.91b6942b.webp"
+  },
+  "Savage": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a3662876.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.50705361.webp"
+  },
+  "Scale": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3343753f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d2aff57e.webp"
+  },
+  "Scalped": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6589b9da.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ef08a8e8.webp"
+  },
+  "SCAR": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7f11ce89.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b3fc7981.webp"
+  },
+  "Scarey": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7871af8a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.4f6543bb.webp"
+  },
+  "Scarlet": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.486cd9c9.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.bf0f54ca.webp"
+  },
+  "Schaedel": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.bfc1aae9.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.5318d43f.webp"
+  },
+  "Scorcher": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.f1e4bd44.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.1642522b.webp"
+  },
+  "Shank": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5144eb8b.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.979d7856.webp"
+  },
+  "Shard": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5336c1e2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f9907930.webp"
+  },
+  "Shark": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.0ec8ea84.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6c8a6582.webp"
+  },
+  "Shiny": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.caaa616c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.2dab79ca.webp"
+  },
+  "Shit Bayonet": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.10263da3.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.095db02c.webp"
+  },
+  "Shit LAR": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d5022833.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e62ef98e.webp"
+  },
+  "Shit M60": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3c5ba5c5.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.198e2a9e.webp"
+  },
+  "Shit Revolver": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.0392a702.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.1cdaa319.webp"
+  },
+  "Shit Shark": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5322df4e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c5db6cd3.webp"
+  },
+  "Shit Tomahawk": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.364570b2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.35a5d845.webp"
+  },
+  "Shit Weatie": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3264e307.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f700138d.webp"
+  },
+  "Shotdead": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.90f1ed21.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.1f92e8a0.webp"
+  },
+  "Silver Bullet": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2c076458.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.5b0ea082.webp"
+  },
+  "Simplicity": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d246ce1c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d15e1130.webp"
+  },
+  "Sketched": {
+    "renderurl": "data:image/webp;base64,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",
+    "textureurl": "https://kirka.io/assets/img/texture.3cd56e69.webp"
+  },
+  "Sky": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3d8bb9f7.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c8045b38.webp"
+  },
+  "Slayer": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a64279c6.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.22c7c91b.webp"
+  },
+  "Sleep": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6e928f45.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.1842fd3b.webp"
+  },
+  "Sleepy": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2a6d9669.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.67faf671.webp"
+  },
+  "Smile": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d61ebe96.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a80c0991.webp"
+  },
+  "Smoked": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3776dc94.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ddcda273.webp"
+  },
+  "Soak": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5c9a1a80.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8c78f985.webp"
+  },
+  "Solar": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fb930215.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3dc0a716.webp"
+  },
+  "Soldiers": {
+    "renderurl": "https://kirka.io/assets/img/__questions__.a6c748fd.png",
+    "textureurl": "https://kirka.io"
+  },
+  "Solitude": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.dc2d9950.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c63d4963.webp"
+  },
+  "Spectacular": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.231c7eab.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e6493ba4.webp"
+  },
+  "Spectrum": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.619af4a5.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.4dcbe03f.webp"
+  },
+  "Spicy": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.10234220.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ce95708d.webp"
+  },
+  "Spilled": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.63b7a053.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ab532b56.webp"
+  },
+  "Splash": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6eaa6a21.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ce1daf47.webp"
+  },
+  "Splush": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2e341551.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c627bcc8.webp"
+  },
+  "Spooder": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.05da727e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a4cfca5a.webp"
+  },
+  "Spooky": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e3005b7f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.286a4f50.webp"
+  },
+  "Spoooky": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.cec236b1.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8f6447bb.webp"
+  },
+  "Spotted": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.62dbfb52.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.bd9c1161.webp"
+  },
+  "Spring": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5243abcc.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b10da164.webp"
+  },
+  "Starlinked": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.0c14eabe.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8eff4809.webp"
+  },
+  "Starstruck": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.0051a7ee.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.dbf4a5b0.webp"
+  },
+  "Static": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3b543bf5.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.cb1758e1.webp"
+  },
+  "Steely": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e944bf4c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.cf16a61a.webp"
+  },
+  "Stingray": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c2b12631.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.88aaf4d2.webp"
+  },
+  "Stitches": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9edd516b.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.95426ad5.webp"
+  },
+  "Streaks": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3e6453aa.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8060ab6e.webp"
+  },
+  "Striped": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.14e04602.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.222162fb.webp"
+  },
+  "Stripes": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6c39de1f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d12855b6.webp"
+  },
+  "Strips": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6f9500c5.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8655fb35.webp"
+  },
+  "Summer": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.17e70fe6.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d9c659f8.webp"
+  },
+  "Sunday": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2f9e18cd.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.0313bdc8.webp"
+  },
+  "Sunflower": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c7385d04.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a372308f.webp"
+  },
+  "Sunset": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b6fb4fc4.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.2b30a4df.webp"
+  },
+  "Supermind": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.eb4cad05.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.5c31594c.webp"
+  },
+  "Swamp": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9e9b77e2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3d8057f7.webp"
+  },
+  "Sweater": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.dbaf37be.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.35770b90.webp"
+  },
+  "Swirl": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2a991ddc.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.11e7e023.webp"
+  },
+  "Synergy": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.852848c7.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c14c4dc0.webp"
+  },
+  "Tag": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.309b93df.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.10e5a605.webp"
+  },
+  "Tagged": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b6f9c9fe.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d31916b5.webp"
+  },
+  "Tank": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3cad76a3.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.150b5e8b.webp"
+  },
+  "Target": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.451b797e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.79fcf7a9.webp"
+  },
+  "Taurus": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5c27bbe0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3c921341.webp"
+  },
+  "Teflon": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.34faf9a9.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c6dc5171.webp"
+  },
+  "Terminator": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.004adb21.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.260ff1c3.webp"
+  },
+  "Thief": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.663b2c47.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3035a0c5.webp"
+  },
+  "Tiburon": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.cbe5bcda.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e8df4123.webp"
+  },
+  "Ticketeer": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1670bd1a.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ec0dbccf.webp"
+  },
+  "Tide": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.713c7d53.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6484c238.webp"
+  },
+  "Tingey": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.0927817f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.708af03a.webp"
+  },
+  "Tomahawk": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.e7985b42.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.397a3f05.webp"
+  },
+  "Toxic": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9e98175e.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.4136dd12.webp"
+  },
+  "Toy": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8ea1bdd3.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.92bb920f.webp"
+  },
+  "Tradition": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.5e3b27c0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.9478f861.webp"
+  },
+  "Trolled": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ffe028a3.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e9701eb0.webp"
+  },
+  "Try": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.bd9c31cd.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.03822b23.webp"
+  },
+  "Turquoise": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4bdd9f90.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.1c7c0ef0.webp"
+  },
+  "Turtle": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1c68fc3c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.cd5e52ad.webp"
+  },
+  "Twilight": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.85830907.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.2e5a9caa.webp"
+  },
+  "Tyrant": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d602ac63.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.137fe530.webp"
+  },
+  "Ukiyo": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4ae3fcc8.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.cb09342f.webp"
+  },
+  "Ultraviolet": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fcfc6ce1.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.340c5a40.webp"
+  },
+  "Uncanny": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fa2b9b7f.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.5b267791.webp"
+  },
+  "Undead": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.87646066.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d52d0780.webp"
+  },
+  "Underwater": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.1b2078d6.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a4f53be0.webp"
+  },
+  "Universe": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.9d0707ce.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f1d8ee7d.webp"
+  },
+  "Vampire": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.47c69265.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.dbd62944.webp"
+  },
+  "Vapor": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.335f7970.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b37589dc.webp"
+  },
+  "Vibrant": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fd3610e7.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ac7b8455.webp"
+  },
+  "Viking": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.29f55db0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d98ccb8f.webp"
+  },
+  "Vintage": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.496c7295.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c865d308.webp"
+  },
+  "Violet": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.83195ad9.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.f4defa7a.webp"
+  },
+  "VITA": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.f5b98f34.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b2a49027.webp"
+  },
+  "Vivid": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4b4d5286.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b80eeb88.webp"
+  },
+  "Vocaloid": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4a043207.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.dd509c82.webp"
+  },
+  "Void AR-9": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.6238adef.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.1e3daeb2.webp"
+  },
+  "Void Bayonet": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ee2a8bf0.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.ec42bd6d.webp"
+  },
+  "Void LAR": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.bcfbb27b.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.042c08c6.webp"
+  },
+  "Void M60": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ecdfa0cd.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.e6b0278b.webp"
+  },
+  "Void MAC-10": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.551685f9.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6cc90494.webp"
+  },
+  "Void Revolver": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.dbe8d883.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.13fe4b0e.webp"
+  },
+  "Void SCAR": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c3c4ca00.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.3bbf1256.webp"
+  },
+  "Void Shark": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d871be11.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.fb6f6083.webp"
+  },
+  "Void Tomahawk": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fe6ae2d7.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8ed8e0b2.webp"
+  },
+  "Void VITA": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.74d1d8c1.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.449f442b.webp"
+  },
+  "Void Weatie": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.ddfac380.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.9533134f.webp"
+  },
+  "Volcaic": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.4f78eb80.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8ed7832f.webp"
+  },
+  "Volcano": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a37fb1ca.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d18b0ee5.webp"
+  },
+  "Wacky": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.0971b808.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a080820e.webp"
+  },
+  "Watermelon": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.19d46cd3.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.09c23d4a.webp"
+  },
+  "Watery": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8bae27c8.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.afe0df37.webp"
+  },
+  "Wave Dot": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.93dfb164.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.9007590d.webp"
+  },
+  "Waveform": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.91a547dc.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6a67b5c5.webp"
+  },
+  "Waves": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.49bf7812.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.c800de1d.webp"
+  },
+  "Wax Paper": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.a1024de6.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.b019ec6c.webp"
+  },
+  "Weatie": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.c50a020d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.212a85fe.webp"
+  },
+  "Whispers": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.2a7cf999.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.7fb29008.webp"
+  },
+  "Whiteout": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fbf55a8c.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.d887e504.webp"
+  },
+  "Wicked": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.62049a0b.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.4b021644.webp"
+  },
+  "Widow": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.b4a8b964.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.85e75e6c.webp"
+  },
+  "Wiggleworp": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.07b9ae66.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.27b557f7.webp"
+  },
+  "Winter": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8cb92ade.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.6dcb5921.webp"
+  },
+  "Wood": {
+    "renderurl": "https://kirka.io/assets/img/__chest-1__.2fe7c327.webp",
+    "textureurl": "https://kirka.io"
+  },
+  "Wrap": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.12944e08.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.5ebd9b7e.webp"
+  },
+  "Wrapping": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.8333f61d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.8465ee39.webp"
+  },
+  "Yellow Camo": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.7475746d.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.68000c0b.webp"
+  },
+  "Yule": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.fa966a05.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.a6cba627.webp"
+  },
+  "Zebra": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.00ad4dcf.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.5d762790.webp"
+  },
+  "Zelda": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.aa31b3ff.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.9b76bd53.webp"
+  },
+  "Zen": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d894e576.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.7d987fe7.webp"
+  },
+  "Zephyr": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.d12df402.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.61d0c947.webp"
+  },
+  "ZG-Mario": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.3f6f0328.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.16d0d738.webp"
+  },
+  "Zzzz": {
+    "renderurl": "https://kirka.io/assets/img/render-mini.879333c2.webp",
+    "textureurl": "https://kirka.io/assets/img/texture.2f927bbf.webp"
+  }
+}
